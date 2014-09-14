@@ -1,10 +1,6 @@
 ---
 layout: post
 title: Revisiting an old favourite - URLs
-date: 2014-07-19 12:10
-author: calum
-comments: true
-categories: [Digital Marketing]
 ---
 When we embarked on our most recent public sector project, there was a big focus on shifting mindsets towards agile practices and away from traditional approaches to product and software development. I blogged briefly about this <a href="http://calumshep.com/agile-project-management/">personal switch to agile</a> back in February. 
 
