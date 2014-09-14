@@ -1,16 +1,13 @@
 ---
 layout: post
-title: The Occupy Flash Campaign
-date: 2012-01-03 14:21
-author: calum
-comments: true
-categories: [Digital Marketing, Technology, Thoughts &amp; Commentary]
+title: The occupy Flash campaign
 ---
-<em>(This post was previously posted in November 2011. I have now duplicated here for greater reach. To view the original post, please visit the <a title="bigmouthmedia blog" href="http://blog.bigmouthmedia.com/2011/11/22/occupy-flash-unnecessary/">LBi Blog</a>) </em>
+(This post was previously posted in November 2011. I have now duplicated here for greater reach. To view the original post, please visit the [LBi blog](http://blog.bigmouthmedia.com/2011/11/22/occupy-flash-unnecessary/).
 
-<em></em>Denouncing Flash and beginning a campaign to swat its usage, Occupy Flash have received strong coverage in mainstream media. The first thought I had was "is all this really necessary?".
+Denouncing Flash and beginning a campaign to swat its usage, Occupy Flash have received strong coverage in mainstream media. The first thought I had was: 
 
-<!--more-->
+> "is all this really necessary?"
+
 
 Shockwave Player launched in 1995, with Flash being made available to download the following year. Launching in a very different digital landscape from the one we see today, under the guise of Macromedia Flash Player. Flash was brought into the limelight with the intention of providing multimedia functionality through web browsers, something that would be sure to impress the surfers of the era.
 

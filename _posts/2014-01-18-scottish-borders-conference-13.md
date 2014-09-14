@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talk @ Scottish Borders TP Conference 2013
+title: Talk @ Scottish Borders tourism partnership conference 2013
 ---
 I was asked along to the Scottish Borders Tourism Partnership Conference at the tail end of the year. Whilst there I spent a bit of time talking about digital marketing, with the deck now being made available via VisitScotland.
 
