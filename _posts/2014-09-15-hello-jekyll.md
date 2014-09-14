@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Say hello Jekyll.
+permalink: short-urls-jekyll
 ---
 
 Goodbye [WordPress](http://www.wordpress.org/). It's been great working with you! Hello [Jekyll](http://jekyllrb.com). Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. To quote [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
