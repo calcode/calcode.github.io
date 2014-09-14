@@ -12,10 +12,10 @@ It is perfectly possible to pass your Google Adwords exam without the need for p
 
 Introducing Google Partners program - things have now changed.
 
-	-Google Partner Exams are now free! This means you don't need to pay for your Adwords exams anymore.</li>
-	-The new Google Partners website is designed to allow you to revise and sit the exams, all via one portal.</li>
-	-Resources from 3rd parties tend to be out of date and don't match the current Google Adwords Interface, nor the exam material. They do still provide value however and will no doubt be updated post launch of Google Partners.</li>
-	-Google resources are at times a different from the interface, however you can bank on the Google material matching the exam.</li>
+- Google Partner Exams are now free! This means you don't need to pay for your Adwords exams anymore.
+- The new Google Partners website is designed to allow you to revise and sit the exams, all via one portal.
+- Resources from 3rd parties tend to be out of date and don't match the current Google Adwords Interface, nor the exam material. They do still provide value however and will no doubt be updated post launch of Google Partners.
+- Google resources are at times a different from the interface, however you can bank on the Google material matching the exam.
 
 In short, things are become a whole lot more clean when it comes to revision resources.  Digging around for Google Adwords Certification study guides for your Fundamentals / Advanced Search exams is far less important post Google Partners launch.
 
