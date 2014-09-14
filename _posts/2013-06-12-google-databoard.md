@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Google Databoard Custom Infographic Creation
+title: Google Databoard custom infographic creation
 ---
-Whilst mulling over the available Google Webinar events that are available in the next few months - something stood out. A session devoted to <strong>Google Databoard is available, titled "[Creating Custom Infographics with the New Google Databoard](http://www.google.com/think/webinars/custom-infographics-databoard.html).
+Whilst mulling over the available Google Webinar events that are available in the next few months - something stood out. A session devoted to Google Databoard is available, titled "[Creating custom infographics with the new Google Databoard](http://www.google.com/think/webinars/custom-infographics-databoard.html).
 
 ##What is Google Databoard?
 Based upon the description it becomes clear early on - a new tool that offers people the ability to build infographics, making use of Google data. The benefits for advertisers and marketers is easy clear; robust, trustworthy statistics in a digestible format. Google on the other hand gets good brand awareness and more justification as to the importance of Search and Display. They will no doubt let the statistics speak for themselves in this regard.

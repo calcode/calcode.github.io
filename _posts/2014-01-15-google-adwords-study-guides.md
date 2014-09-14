@@ -17,17 +17,15 @@ Introducing Google Partners program - things have now changed.
 - Resources from 3rd parties tend to be out of date and don't match the current Google Adwords Interface, nor the exam material. They do still provide value however and will no doubt be updated post launch of Google Partners.
 - Google resources are at times a different from the interface, however you can bank on the Google material matching the exam.
 
-In short, things are become a whole lot more clean when it comes to revision resources.  Digging around for Google Adwords Certification study guides for your Fundamentals / Advanced Search exams is far less important post Google Partners launch.
+In short, things are become a whole lot more clean when it comes to revision resources. Digging around for Google Adwords Certification study guides for your Fundamentals / Advanced Search exams is far less important post Google Partners launch.
 
 ##1. Official Google Study Guides
 
 The Google Partners area provides all the initial steps to get you up and running. You will be able to access to seminars, study guides and much more. Essential for you kicking off your Google Adwords Certification study.
 
-Visit the [Google Partners Help Area](https://support.google.com/partners/topic/3204437?hl=en-GB&amp;ref_topic=3111012)
-
-Download the [oogle Adwords Fundementals Study Guide (PDF)](https://support.google.com/partners/answer/3045820?hl=en-GB)
-
-Download the [Google Adwords Search Advanced Study Guide (PDF)](https://support.google.com/partners/answer/3045822?hl=en-GB)
+- Visit the [Google Partners help area](https://support.google.com/partners/topic/3204437?hl=en-GB&amp;ref_topic=3111012)
+- Download the [Google Adwords Fundementals study guide (PDF)](https://support.google.com/partners/answer/3045820?hl=en-GB)
+- Download the [Google Adwords Search Advanced study guide (PDF)](https://support.google.com/partners/answer/3045822?hl=en-GB)
 
 ##2. Google Adwords Help Centre </strong>
 
@@ -41,21 +39,20 @@ The Adwords interface will give you the best exposure possible help for you to p
 
 The real value is assigning budgets and getting some campaigns live. Google regularly provide vouchers of around $50 to new customers via email to get people up and running, so look out for these in the days after activation. The Adwords Coupon page is also useful and currently has £75 free for a £25 spend (Confirmed live Jan 2014).
 
-Visit the [Google Adwords Coupon Website](http://www.google.co.uk/adwords/coupons/)
-
-Visit the [Google Adwords Website](http://adwords.google.co.uk)
+- Visit the [Google Adwords Coupon website](http://www.google.co.uk/adwords/coupons/)
+- Visit the [Google Adwords website](http://adwords.google.co.uk)
 
 ##4. Google YouTube Adwords Playlist
 
 Various videos on anything and everything Adwords. You can find a specific playlist for all the introductory videos for adwords via the link below.
 
-Visit the [Google YouTube Adwords Overview Playlist](http://www.youtube.com/playlist?list=PLD30CBD9BA34712EA)
+- Visit the [Google YouTube Adwords overview playlist](http://www.youtube.com/playlist?list=PLD30CBD9BA34712EA)
 
 ##5. Other Websites
 Please note, these are additional resources are pretty out of date. However they do provide a bit more context for you if you have additional study time available.
 
-	-[Slideshare Slide Deck by Emily Liedblad](http://www.slideshare.net/thejargroup/google-adwords-study-guide-how-to-pass-the-adwords-test)
-	-[General Certification Guide by Tom Demers](http://www.wordstream.com/blog/ws/2011/02/10/adwords-certification-tips)
+-[Slideshare slidedeck by Emily Liedblad](http://www.slideshare.net/thejargroup/google-adwords-study-guide-how-to-pass-the-adwords-test)
+-[General Certification guide by Tom Demers](http://www.wordstream.com/blog/ws/2011/02/10/adwords-certification-tips)
 	-[Quiz from Mr McSheeny](http://www.quia.com/quiz/2779973.html)
 
 I would also recommend downloading the free uCertify trial, as they do offer an extremely robust package with a decent number of questions available for free.

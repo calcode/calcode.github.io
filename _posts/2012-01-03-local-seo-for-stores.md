@@ -13,30 +13,30 @@ Approach local SEO for stores by thinking about location initially  then the t
 ##A. Onsite promotion
 Shopping at the last minute is not an alien concept for many at Christmas. In the run up to Christmas, many people will be trawling the internet for details on local stores in a number of scenarios;
 
-	The standard delivery window for mail order has expired
-	They discover that only expensive ‘next day delivery’ options are available.
-	Risk of weather related delivery delays.
+- The standard delivery window for mail order has expired
+- They discover that only expensive ‘next day delivery’ options are available.
+- Risk of weather related delivery delays.
 
 We can now begin to identify the journey from online to offline customer as being of vital importance as a revenue stream. Thus, make store locations and how to find them visible on site.
 
-	- Promote from the homepage
-	- Provide within your standard navigation, be it a footer or sub-navigation
+- Promote from the homepage
+- Provide within your standard navigation, be it a footer or sub-navigation
 
 ##B. Individual Store Pages
 
-	- Guidelines should be in place to ensure all individual store pages provide the most up to date information, so that as changes take place these can be reflected on site.
-	- Where stores are individually operated or franchised with separate social profiles, think about what social feeds or real time updates you can pull into these pages.
-	- Customer reviews of that location will be common online, something you wish to include?
-	- Use easy to remember URL’s.
-	- Want to take it up a notch? Promote the store landing page from within each location - it may well help create a loyalty aspect that not many other online retailers can match.
+- Guidelines should be in place to ensure all individual store pages provide the most up to date information, so that as changes take place these can be reflected on site.
+- Where stores are individually operated or franchised with separate social profiles, think about what social feeds or real time updates you can pull into these pages.
+- Customer reviews of that location will be common online, something you wish to include?
+- Use easy to remember URL’s.
+- Want to take it up a notch? Promote the store landing page from within each location - it may well help create a loyalty aspect that not many other online retailers can match.
 
 ##C. 3rd Party Location Platforms
 Offsite promotion plays the most important part. Location based platforms such as Google+ Local, Here Places (Nokia), Bing Places and Yelp will transform traffic to location pages in many instances.
 
-	- Be organised and maintain a list of your locations
-	- Claim listings currently out there and close / amend where required
-	- Build upon this and add new listings, alongside new information as appropriate
-	- Use link tracking and PROVE it works!
+- Be organised and maintain a list of your locations
+- Claim listings currently out there and close / amend where required
+- Build upon this and add new listings, alongside new information as appropriate
+- Use link tracking and PROVE it works!
 
 Identifying, documenting and maintaining profiles and information contained on 3rd party websites ensures customers do not end up at stores that do not exist, or have since moved after the information was made available. These 3rd party profiles can all be closely integrated with any associated store pages on the 1st party site.
 

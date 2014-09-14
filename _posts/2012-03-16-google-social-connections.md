@@ -4,8 +4,6 @@ title: What does Google know about me?
 ---
 Google rolled out Search, plus Your World to quite a bit of fanfare, mixed opinion and wide ranging commentary a few months ago now. I was very much of the opinion that it was more Your World, plus Search, as opposed to Search, plus Your World. This opinions was formed off the back of having a heavy weighting on Google+ content, social recommendations from friends who you hardly know and more.
 
-<!--more-->
-
 We’ve discussed how Google can associate you with people if you have a Google Account that has Gmail bundled in, with people you regular email, with Google+ accounts, appearing within your results recommending various pieces of content you may be interested in.
 
 <a href="http://calumshep.com/wp-content/uploads/2012/03/google-social-results.png"><img class="aligncenter size-full wp-image-105" title="google-social-results" alt="google-social-results" src="http://calumshep.com/wp-content/uploads/2012/03/google-social-results.png" width="535" height="107" /></a>However, after digging around my profile today I actually discovered how deep this social graph extends. Check out your Dashboard, Available under Accounts > Products > Sign into Dashboard. Upon doing so, scroll down till you see the social connections and content area. Click on “View Social Connections”.
