@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile Project Management in the Public Sector
+title: Agile project management in the public sector
 ---
 Working in an agile manner, after a history of creating bulky project briefs and requirements to front load work, is a little challenging to say the least. I had a history of attempting to nail long documentation, with the aim of ensuring outputs and outcomes would be realised. However, long development times, a lack of flexibility to change things and worries about launching early were always a common occurrence.
 
