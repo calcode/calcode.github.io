@@ -20,3 +20,9 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+ 
+# Menu 
+pages_list:       
+about: '/about'
+archive: '/archive'
+feed: '/atom.xml'
