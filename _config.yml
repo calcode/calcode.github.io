@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Calum Shepherd
+tagline:          Digital Mulling, Marketing & Projects
+url:              http://code.calumshep.com
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Calum Shepherd
+  url:            https://twitter.com/calumshepherd
+  email:          calumshep@gmail.com
 
 # Custom vars
 version:          1.0.0
