@@ -27,7 +27,3 @@ talks: '/talks'
 work: '/work'
 archive: '/archive'
 feed: '/atom.xml'
-
-# Redirect enabler for GitHub
-gems:
-  - jekyll-redirect-from
