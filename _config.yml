@@ -10,7 +10,7 @@ title:            Calum Shepherd
 tagline:          Digital Mulling, Marketing & Projects
 url:              http://calcode.calumshep.com
 paginate:         5
-baseurl:          http://calcode.calumshep.com/
+baseurl:          http://calcode.calumshep.com
 author:
   name:           Calum Shepherd
   url:            https://twitter.com/calumshepherd
@@ -23,6 +23,11 @@ github:
  
 # Menu 
 pages_list:       
-about: '/talks'
+talks: '/talks'
+work: '/work'
 archive: '/archive'
 feed: '/atom.xml'
+
+# Redirect enabler for GitHub
+gems:
+  - jekyll-redirect-from
