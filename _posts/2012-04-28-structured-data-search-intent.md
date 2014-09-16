@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Are we prioritising structured data over search intent?
+permalink: structured-data-search-intent/
 ---
 The Semantic Web is an interesting concept, fuelled from a desire to be able to establish URIs for information on the web. The end goal of structuring unstructured data on the web is an ambitious one, which I don’t think will ever totally come to fruition in its current form. Turning the web into the equivalent of a giant database is great, but will need wide spread support within HTML5 and via CMS creators.
 

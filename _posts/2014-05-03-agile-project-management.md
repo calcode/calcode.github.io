@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adapting to agile methods in the public sector
+permalink: agile-project-management/
 ---
 Working in an agile manner, after a history of creating bulky project briefs and requirements to front load work, is a little challenging to say the least. I had a history of attempting to nail long documentation, with the aim of realising as many outcomes and outputs as possible. However, long development times, a lack of flexibility in relation to change and worries about launching too early were always common. 
 

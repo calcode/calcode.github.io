@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Yelp Edinburgh’s Winterfall Wonderland @ Ghillie Dhu
+permalink: yelp-edinburgh-ghillie-dhu/
 ---
 I recently had the pleasure of attending a Yelp! Edinburgh event in an official capacity as part of my role at VisitScotland. The aim was to learn about the community, what the events are all about and how we can potentially work with each other moving forward.
 

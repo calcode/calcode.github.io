@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The definition of SEO in 2013
+permalink: definition-of-seo/
 ---
 Digital moves quickly. This time of year frequently sees a wealth of blog and industry news focused on one aspect of this, SEO. Camps tend to joust for attention and kudos, producing link bait focused articles which aim to foretell the future. Posts are either plain misguided, or quite notable pieces that are worthy of the coverage they receive. Unfortunately on many occasions its the first of the two that is true, with said articles being poorly promoted with overly optimised headings and content.
 

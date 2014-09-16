@@ -1,6 +1,7 @@
 ---
 layout: post
 title: #TheDigitals 2013 Shortlist for VisitScotland
+permalink: the-digitalsshortlist/
 ---
 Some good news! Although a little late in highlighting, the digital team at VisitScotland were shortlisted for an [E-Consultancy #TheDigitals Travel and Tourism](http://thedigitalsawards.com/) award, back in May 2013.
 

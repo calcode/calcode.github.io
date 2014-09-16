@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Databoard custom infographic creation
+permalink: google-databoard/
 ---
 Whilst mulling over the available Google Webinar events that are available in the next few months - something stood out. A session devoted to Google Databoard is available, titled "[Creating custom infographics with the new Google Databoard](http://www.google.com/think/webinars/custom-infographics-databoard.html).
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Project management and digital marketers
+permalink: digital-project-management/
 ---
 Digital Project Management is common place in large organisations and businesses throughout the UK. Loosely speaking roles can encompass the web development, infrastructure management or wider digital marketing campaigns. There is massive potential for the fundamentals of project management to be harnessed and applied to our wider digital marketing roles, improving efficiency and the ability for people to correctly measure success.
 

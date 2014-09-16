@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Nestle & Google Android KitKat announcement
+permalink: nestle-google-announcement/
 ---
 Hot off the press this morning was the news that Nestle and Google have forged a partnership, branding the new version of Android KitKat. You can read more on the background of the announcement on the [BBC News](http://www.bbc.co.uk/news/technology-23926938) website.
 

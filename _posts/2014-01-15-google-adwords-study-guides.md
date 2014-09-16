@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Google Adwords certification study guides (fundamentals / advanced)
+permalink: google-adwords-study-guides/
 ---
 Updated: 15/01/2014 (Google Partners Program)
 

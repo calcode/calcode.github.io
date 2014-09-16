@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Increase Like button clicks on informational websites
+permalink: increasing-like-button-clicks/
 ---
 A colleague of mine [Ross Tavendale](http://rosstavendale.com/) highlighted the idea of placing social sharing functionality alongside content on informational sites. A great idea for highlighting specific gems likely to be shared, as button placement currently tends to be commonly top / bottom. Some further discussion and a bit of further research this as being a nice little way of potentially increasing the rate at which people interact with social sharing functionality. Essentially what he described is a route to increasing Like Button clicks on informational sites, in turn expanding your visibility and following on Facebook.
 

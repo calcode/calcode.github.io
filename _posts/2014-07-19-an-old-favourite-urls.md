@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Revisiting an old favourite called URLs
+permalink: an-old-favourite-urls/
 ---
 When we embarked on our most recent public sector project, there was a big focus on shifting mindsets towards agile practices and away from traditional approaches to product and software development. I blogged briefly about this [personal switch to agile](http://calumshep.com/agile-project-management/) back in February. 
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Your World Plus Search (Not Search Plus Your World)
+permalink: search-plus-your-world/
 ---
 "Search, Plus your World" has begun rolling out on Google.com for logged in users, which is big news within the industry. Since the launch, we have seen high volumes of coverage, both within the industry and in mainstream media.
 

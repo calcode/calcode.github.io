@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The occupy Flash campaign
+permalink: occupy-flash-campaign/
 ---
 (This post was previously posted in November 2011. I have now duplicated here for greater reach. To view the original post, please visit the [LBi blog](http://blog.bigmouthmedia.com/2011/11/22/occupy-flash-unnecessary/).
 
