@@ -10,7 +10,7 @@ title:            Calum Shepherd
 tagline:          Digital Mulling, Marketing & Projects
 url:              http://calcode.calumshep.com
 paginate:         5
-baseurl:          http://calcode.calumshep.com/
+baseurl:          /
 author:
   name:           Calum Shepherd
   url:            https://twitter.com/calumshepherd
