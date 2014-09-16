@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An approach to local SEO for stores
+permalink: occupy-flash-campaign/
 ---
 (This post was previously posted in December 2011 as part of a SEO Advent Calendar series. It has since been amended and updated and reposted here for greater reach. To view the original post, please visit the [LBi blog](http://blog.bigmouthmedia.com/2011/12/06/no-6-%E2%80%93-seo-advent-calendar/).
 

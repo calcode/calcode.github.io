@@ -23,6 +23,6 @@ github:
  
 # Menu 
 pages_list:       
-about: '/about'
+about: '/talks'
 archive: '/archive'
 feed: '/atom.xml'
