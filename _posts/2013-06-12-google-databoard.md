@@ -10,9 +10,9 @@ Based upon the description it becomes clear early on - a new tool that offers pe
 
 ##What does it look like?
 
-<img src="http://uploads.calumshep.com/google-databoard-infographic-builder.png"/>
+Our analyst Paul spotted that it is already live, however we are not sure if it is meant to be accessible. You can;
 
-A colleague Paul Bruce spotted that it is already live, however we are not sure if it is meant to be accessible. You can;
+<img src="http://uploads.calumshep.com/google-databoard-infographic-builder.png"/>
 
 Find the main landing page and [try it out here](http://bynd-data-board-dev.appspot.com/). Or, you can check out some [example studies here](http://bynd-data-board-dev.appspot.com/theme/1/) for you to try here.
 

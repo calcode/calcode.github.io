@@ -18,20 +18,20 @@ Well, let’s take a look at the example Ross initially provided in the form of 
 <img src="http://uploads.calumshep.com/british-quote-button.png"/>
 
 Britain Magazine increases Facebook Like button clicks through adding the ability to share quotes on a page out to Facebook. However, the challenge is that you can only make use of one set of Open Graph mark-up per page, meaning that your entire page would have to become about one single quote, even though it will be providing information above and beyond that.
-##How do they do it?
+
+##How do they achieve this?
 Simple! They use one Like button for the homepage, then on the same page link through to unique URL’s for each quote, with unique, relevant Open Graph mark-up.
 
 <img src="http://uploads.calumshep.com/like-button-code-image.png"/>
 
 This means that every quote has its own unique URL, so you aren’t actually sharing THAT quote, your sharing the same quote but on a different URL (Something the typical user will never realise). You can see the true URL you are sharing within the iFrame.
 
-##Let’s map this out
+##The user journey
 - Visitor lands on [http://www.britain-magazine.com](http://www.britain-magazine.com/)
 - Visitor clicks the like button next to the quote
 - Visitor shares [http://www.britain-magazine.com/special-post/quotes/alfred-tennyson/](http://www.britain-magazine.com/special-post/quotes/alfred-tennyson/), a unique URL which only provides a single quote and no other content
 
-##GREAT idea, however has multiple impact points
-
+*A great idea with wider implications*
 - Google will crawl these URLs, thus for every quote a unique URL may be indexed
 - When shared, visitors will arrive on a page with a quote and navigation, not the original section of the homepage where the quote was shared from
 - A likely increase in like button clicks for your site's content as a whole
