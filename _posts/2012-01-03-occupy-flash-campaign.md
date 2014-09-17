@@ -9,12 +9,9 @@ Denouncing Flash and beginning a campaign to swat its usage, Occupy Flash have r
 
 > "is all this really necessary?"
 
-
 Shockwave Player launched in 1995, with Flash being made available to download the following year. Launching in a very different digital landscape from the one we see today, under the guise of Macromedia Flash Player. Flash was brought into the limelight with the intention of providing multimedia functionality through web browsers, something that would be sure to impress the surfers of the era.
 
 1996 was not just the year of Flash, it was the year when; Intel launched the the Pentium Processor, where Apple was in the process of going down the pan, and the year the 16MHz Palm Pilot launched - providing computing power on the move. The era now looks a lot like the technology equivalent of the iron age, alas Flash really has lasted the test of time whether people like it or not. I would be inclined to say that Flash was the very beginning of a shift away from traditional software, putting us full steam ahead towards web based deployments mirroring traditional software functionality (think Office 365 – just minus the cloud bit!). Today it is one of the most widely deployed playback technologies ever distributed online.
-
-<img src="http://uploads.calumshep.com/adobe-flash-saturation-rates.jpg"/>
 
 Flash has provided interesting functionality to a range of different websites. It was always a firm favourite for branded micro sites, providing rich multimedia experiences for visitors. A sole reliance on Flash for web design is in decline, for a number of obvious reasons. However, this has been aided through a well publicised spat between Steve Jobs and Adobe’s pride and joy. This saw a rejuvenated campaign of anti-flash sentiment making itself known amongst the Apple crowd.
 

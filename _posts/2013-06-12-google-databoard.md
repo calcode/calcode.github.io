@@ -12,14 +12,12 @@ Based upon the description it becomes clear early on - a new tool that offers pe
 
 Our analyst Paul spotted that it is already live, however we are not sure if it is meant to be accessible. You can;
 
-<img src="http://uploads.calumshep.com/google-databoard-infographic-builder.png"/>
-
 Find the main landing page and [try it out here](http://bynd-data-board-dev.appspot.com/). Or, you can check out some [example studies here](http://bynd-data-board-dev.appspot.com/theme/1/) for you to try here.
 
 I would recommend you signup for the [Google Webinar](http://vshow.on24.com/vshow/learnwebinars) however.
 
 Give it a look and let me know what you think.
 
-*Update*
+*Update:*
 
 This has now been announced in the most recent Google Webinar! Joy Hawkins posted a couple of shots from the demo, viewable on the [Catalystemarketing forum](http://localsearchforum.catalystemarketing.com/internet-marketing/8439-new-google-databoard.html).

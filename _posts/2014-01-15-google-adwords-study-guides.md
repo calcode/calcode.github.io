@@ -5,8 +5,6 @@ permalink: google-adwords-study-guides/
 ---
 Updated: 15/01/2014 (Google Partners Program)
 
-<img src="http://uploads.calumshep.com/adwords-qualified-professional.jpg"/>
-
 Looking to expand your Adwords knowledge? Whether or not you actually manage Adwords campaigns, an understanding of how they work and paid media terminology in general is always going to be a benefit to you.
 
 A lot of people will thus look to Google Exams to help with this, as they bundle revision with certification. To help with this, I've listed some Google Adwords Certification study guides that may aid in getting you through both the Fundamental and Advanced Search exams.

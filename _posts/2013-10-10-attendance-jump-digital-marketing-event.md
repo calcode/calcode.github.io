@@ -5,8 +5,6 @@ permalink: attendance-jump-digital-marketing-event/
 ---
 I had the pleasure of attending the [Jump digital marketing event](http://festivalofmarketing.com/jump) in London yesterday, as part of the E-Consultancy [Festival of Marketing](http://festivalofmarketing.com/). Jump is all about creating a joined up consumer experience. Talks ranged from user experience to psychology and its impact on digital marketing, a real mix of extremely interesting and thought provoking topics.
 
-<img src="http://uploads.calumshep.com/jump-digital-marketing.jpeg"/>
-
 ##Up close and personal, engaging your target audience anytime, anywhere
 [Expedia](http://www.expedia.co.uk/)
 

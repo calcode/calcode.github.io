@@ -5,8 +5,6 @@ permalink: search-plus-your-world/
 ---
 "Search, Plus your World" has begun rolling out on Google.com for logged in users, which is big news within the industry. Since the launch, we have seen high volumes of coverage, both within the industry and in mainstream media.
 
-<img src="http://uploads.calumshep.com/search-plus-your-world.gif"/>
-
 Search Plus Your World, providing rich social oriented results.
 
 This article discusses the more topical aspects of the update, with their being plenty of excellent advancements for us to shout about in addition to these! If your a little behind on the news front, then the [LBi blog](http://blog.bigmouthmedia.com/2012/01/10/google-gets-even-more-personal-search-your-world/) does a good job of highlighting the main areas that "Search, plus Your World" impacts, alongside why it is so fundamental.

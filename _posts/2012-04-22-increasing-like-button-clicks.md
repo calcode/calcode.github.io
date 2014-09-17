@@ -9,8 +9,6 @@ A colleague of mine [Ross](http://rosstavendale.com/) highlighted the idea of pl
 
 It is quite common for e-commerce websites to achieve additional Like button clicks through making use of Facebook Open Graph mark-up, declaring products as objects and placing buttons alongside to aid in sharing. This works really well for people thinking about making a purchase, or people about to make a purchase and sharing it to friends and families in advance. [ASOS](http://www.asos.com) is a great example of this.
 
-<img src="http://uploads.calumshep.com/asos-like-button-example.png"/>
-
 This e-commerce method works because your single page is a single object, a product. However, how does this work when you are looking to share a specific area of a page on an informational site, without impacting messaging when sharing the page as a whole? This is the aspect that interested me, as I wanted to know how they were pulling it off and if there were any search implications.
 
 Well, let’s take a look at the example Ross initially provided in the form of [Britain Magazine](http://www.britain-magazine.com/).
@@ -21,8 +19,6 @@ Britain Magazine increases Facebook Like button clicks through adding the abilit
 
 ##How do they achieve this?
 Simple! They use one Like button for the homepage, then on the same page link through to unique URL’s for each quote, with unique, relevant Open Graph mark-up.
-
-<img src="http://uploads.calumshep.com/like-button-code-image.png"/>
 
 This means that every quote has its own unique URL, so you aren’t actually sharing THAT quote, your sharing the same quote but on a different URL (Something the typical user will never realise). You can see the true URL you are sharing within the iFrame.
 
