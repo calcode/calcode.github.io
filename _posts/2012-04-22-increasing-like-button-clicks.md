@@ -15,7 +15,7 @@ This e-commerce method works because your single page is a single object, a prod
 
 Well, let’s take a look at the example Ross initially provided in the form of [Britain Magazine](http://www.britain-magazine.com/).
 
-<img src="http://uploads.calumshep.com/brittish-quote-button1.png"/>
+<img src="http://uploads.calumshep.com/british-quote-button.png"/>
 
 Britain Magazine increases Facebook Like button clicks through adding the ability to share quotes on a page out to Facebook. However, the challenge is that you can only make use of one set of Open Graph mark-up per page, meaning that your entire page would have to become about one single quote, even though it will be providing information above and beyond that.
 ##How do they do it?
