@@ -5,8 +5,6 @@ permalink: attendance-jump-digital-marketing-event/
 ---
 I had the pleasure of attending the [Jump digital marketing event](http://festivalofmarketing.com/jump) in London yesterday, as part of the E-Consultancy [Festival of Marketing](http://festivalofmarketing.com/). Jump is all about creating a joined up consumer experience. Talks ranged from user experience to psychology and its impact on digital marketing, a real mix of extremely interesting and thought provoking topics.
 
-<a href="http://calumshep.com/wp-content/uploads/2013/10/jump-festival-of-marketing.jpg"><img class="size-medium wp-image-524 alignright" alt="Jump Festival of Marketing" src="http://calumshep.com/wp-content/uploads/2013/10/jump-festival-of-marketing-300x224.jpg" width="300" height="224" /></a>
-
 ##Up close and personal, engaging your target audience anytime, anywhere
 [Expedia](http://www.expedia.co.uk/)
 
@@ -26,13 +24,13 @@ I had the pleasure of attending the [Jump digital marketing event](http://festiv
 
 ##How to improve conversion
 [Redeye](http://www.redeye.com/)
-[download PDF](http://calumshep.com/wp-content/uploads/2013/10/RedEye-MarkPatronJumpPresentation09102013.pdf)
+[download PDF](http://uploads.calumshep.com/redeye-markpatronjumppresentation09102013.pdf)
 
 - Statistics galore from this white paper overview. Due to the amount of statistics and the presentation being publicly available in the near future, I'll refrain from sharing specific stats, but will however hopefully update this post with a link once available.
 - Most common (and important) testing is A/B - with the least common (but still important) being personalisation. Specific tests within A/B that proved to be quick wins included modifying CTA buttons and descriptive text.
 - A critical consideration for organisations planning to kick start testing in this area is to define testing roles and to prioritise.
 - Need justification for carrying out UX experiments? Get someone in front of a camera and give them some key tasks to perform on your website. It may well be the best justification you will ever have for senior management to take note and listen.
-- <a href="http://calumshep.com/wp-content/uploads/2013/10/RedEye-MarkPatronJumpPresentation09102013.pdf">Download the presentation</a>.
+- <a href="http://uploads.calumshep.com/redeye-markpatronjumppresentation09102013.pdf">Download the presentation</a>.
 
 ##Using social media to engagement customers and maximise promotions
 [Yo Sushi!](http://www.yosushi.com/)
