@@ -52,9 +52,9 @@ Various videos on anything and everything Adwords. You can find a specific playl
 ##5. Other Websites
 Please note, these are additional resources are pretty out of date. However they do provide a bit more context for you if you have additional study time available.
 
-- [Slideshare slidedeck by Emily Liedblad](http://www.slideshare.net/thejargroup/google-adwords-study-guide-how-to-pass-the-adwords-test)
-- [General Certification guide by Tom Demers](http://www.wordstream.com/blog/ws/2011/02/10/adwords-certification-tips)
-- [Quiz from Mr McSheeny](http://www.quia.com/quiz/2779973.html)
+- View a[Slideshare deck by Emily Liedblad](http://www.slideshare.net/thejargroup/google-adwords-study-guide-how-to-pass-the-adwords-test)
+- View the a[general certification guide by Tom Demers](http://www.wordstream.com/blog/ws/2011/02/10/adwords-certification-tips)
+- Undertake a [quiz by Mr McSheeny](http://www.quia.com/quiz/2779973.html)
 
 I would also recommend downloading the free uCertify trial, as they do offer an extremely robust package with a decent number of questions available for free.
 
