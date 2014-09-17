@@ -21,7 +21,7 @@ I would recommend you signup for the [Google Webinar](http://vshow.on24.com/vsho
 
 Give it a look and let me know what you think.
 
-##Update
+*Update*
 This has now been announced in the most recent Google Webinar! Joy Hawkins posted a couple of shots from the demo, viewable on the [Catalystemarketing forum](http://localsearchforum.catalystemarketing.com/internet-marketing/8439-new-google-databoard.html). Both images courtesy of Joy.
 
 <a href="http://calumshep.com/wp-content/uploads/2013/06/google-databoard-Infographic2.jpg"><img class="alignnone size-medium wp-image-378" alt="google-databoard-Infographic2" src="http://calumshep.com/wp-content/uploads/2013/06/google-databoard-Infographic2-300x144.jpg" width="300" height="144" /></a> <a href="http://calumshep.com/wp-content/uploads/2013/06/google-databoard-Infographic3.jpg"><img class="alignnone size-medium wp-image-379" alt="google-databoard-Infographic3" src="http://calumshep.com/wp-content/uploads/2013/06/google-databoard-Infographic3-300x144.jpg" width="300" height="144" /></a>

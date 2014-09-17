@@ -32,7 +32,7 @@ The Google Partners area provides all the initial steps to get you up and runnin
 
 Provides help resources for terminology and a run through ranging from basic setup and basics to billing. A strong resource for referencing as opposed to studying for your exam directly.
 
-Visit the [Google Adwords Help Centre](http://support.google.com/adwords/)
+- Visit the [Google Adwords Help Centre](http://support.google.com/adwords/)
 
 ##3. Google Adwords Interface </strong>
 

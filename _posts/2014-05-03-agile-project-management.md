@@ -7,7 +7,7 @@ Working in an agile manner, after a history of creating bulky project briefs a
 
 I'm now sketching out ideas on whitewalls, snapping photos of doodles, holding short stand ups and working with product owners who have a real passion for the creations under their guidance. We're aiming to release frequently and we're aiming to ensure that anything we do is backed by real, robust user needs - something that [Government Digital Service](https://gds.blog.gov.uk/) have really been a champion for over the last few years. 
 
-It all feels very liberating to say the least.
+> It all feels very liberating - in a technical / work kind of way.
 
 If you are interested in finding out more, the web is full of details around various flavours of agile project management methods. Within the division we work through a hybrid approach, utilising [DSDM](http://www.dsdm.org/) for more robust governance and fuller project documentation, alongside a more [Scrum](https://www.scrum.org/) like method for the delivery teams themselves. 
 

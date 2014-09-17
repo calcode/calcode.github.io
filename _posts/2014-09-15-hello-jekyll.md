@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Say hello Jekyll.
+title: Saying hello to Jekyll
 permalink: hello-jekyll/
 ---
 
