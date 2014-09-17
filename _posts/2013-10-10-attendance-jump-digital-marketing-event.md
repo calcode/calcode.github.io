@@ -23,14 +23,13 @@ I had the pleasure of attending the [Jump digital marketing event](http://festiv
 - Cultural change within the organisation a big focus, with importance placed upon people using the digital platforms the organisation is trying to drive forward. Others important areas included revisiting internal guidelines, throwing away job titles for brainstorming, simplifying processes and encouraging a start up ethos operating under the company philosophy.
 
 ##How to improve conversion
-[Redeye](http://www.redeye.com/)
-[download PDF](http://uploads.calumshep.com/redeye-markpatronjumppresentation09102013.pdf)
+[Redeye](http://www.redeye.com/) 
 
 - Statistics galore from this white paper overview. Due to the amount of statistics and the presentation being publicly available in the near future, I'll refrain from sharing specific stats, but will however hopefully update this post with a link once available.
 - Most common (and important) testing is A/B - with the least common (but still important) being personalisation. Specific tests within A/B that proved to be quick wins included modifying CTA buttons and descriptive text.
 - A critical consideration for organisations planning to kick start testing in this area is to define testing roles and to prioritise.
 - Need justification for carrying out UX experiments? Get someone in front of a camera and give them some key tasks to perform on your website. It may well be the best justification you will ever have for senior management to take note and listen.
-- <a href="http://uploads.calumshep.com/redeye-markpatronjumppresentation09102013.pdf">Download the presentation</a>.
+- [download PDF](http://uploads.calumshep.com/redeye-markpatronjumppresentation09102013.pdf)
 
 ##Using social media to engagement customers and maximise promotions
 [Yo Sushi!](http://www.yosushi.com/)

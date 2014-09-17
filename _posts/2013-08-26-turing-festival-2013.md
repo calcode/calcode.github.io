@@ -5,7 +5,7 @@ permalink: turing-festival-2013/
 ---
 I was lucky enough to attend the [Turing Festival](http://turingfestival.com/) in Edinburgh on the 24th and 25th August 2013. Turing took place over a 2 day period towards the tail of the [Edinburgh Festival](http://www.edinburghfestivals.co.uk/), meaning the city was still in top form. The talks were diverse and interesting, with many speakers using technology as a foundation, as opposed to being the subject itself. This made the festival feel more dynamic, interesting and engaging than your run of the mill event. 
 
-<a href="http://uploads.calumshep.com/turing-festival.jpg"><img class="alignright size-medium wp-image-448" alt="Turing Festival Image" src="http://uploads.calumshep.com/turing-festival.jpg" width="300" height="223" /></a>
+<img src="http://uploads.calumshep.com/turing-festival.jpg"/>
 
 ##Talks attended
 

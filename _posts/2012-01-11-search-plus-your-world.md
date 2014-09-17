@@ -5,7 +5,7 @@ permalink: search-plus-your-world/
 ---
 "Search, Plus your World" has begun rolling out on Google.com for logged in users, which is big news within the industry. Since the launch, we have seen high volumes of coverage, both within the industry and in mainstream media.
 
-<a href="http://calumshep.com/wp-content/uploads/2012/01/search-plus-your-world.gif"><img class="size-full wp-image-89" title="search-plus-your-world" alt="Search Plus Your World" src="http://calumshep.com/wp-content/uploads/2012/01/search-plus-your-world.gif" width="304" height="171" /></a> 
+<img src="http://uploads.calumshep.com/search-plus-your-world.gif"/>
 
 Search Plus Your World, providing rich social oriented results.
 
