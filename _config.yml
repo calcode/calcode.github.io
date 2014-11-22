@@ -24,7 +24,6 @@ github:
 # Menu 
 pages_list:       
 talks: '/talks'
-work: '/work'
 archive: '/archive'
 feed: '/atom.xml'
 
