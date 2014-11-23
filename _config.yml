@@ -14,7 +14,7 @@ baseurl:          /
 author:
   name:           Calum Shepherd
   url:            https://twitter.com/calumshepherd
-  email:          calumshep@gmail.com
+  email:          
 
 # Custom vars
 version:          1.0.0
