@@ -23,9 +23,9 @@ github:
  
 # Menu 
 pages_list:       
-talks: '/talks'
-archive: '/archive'
-feed: '/atom.xml'
+  talks: '/talks'
+  archive: '/archive'
+  feed: '/atom.xml'
 
 # Sitemaps
 gems:
