@@ -23,7 +23,7 @@ github:
  
 # Menu 
 pages_list:       
-  talks: '/talks'
+  speaking: '/speaking'
   archive: '/archive'
   feed: '/atom.xml'
 
