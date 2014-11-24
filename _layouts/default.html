@@ -11,8 +11,8 @@
            <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
              <!--addition of menu at top of page-->
              {% for page in site.pages_list %}
-                <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
                  &nbsp;&nbsp;&nbsp;
+                 <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
                  {% endfor %}
                  <!--site tagline-->
              <p><small>{{ site.tagline }}</small></p>
