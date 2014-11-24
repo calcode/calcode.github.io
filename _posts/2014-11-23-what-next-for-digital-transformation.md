@@ -20,3 +20,5 @@ Speakers included:
 - Colin Macdonald, Commissioning Editor for Games, Channel 4
 
 Given three busy weeks, I rushed together a couple of slides about our efforts over the last eight months to introduce a passionate digital team to Government. This team, as a collective, tasked with helping organisations transform the way public services are delivered in Scotland. 
+
+> View a great summary via the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015)
