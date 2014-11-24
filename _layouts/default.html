@@ -9,13 +9,13 @@
       <div class="masthead">
          <h3 class="masthead-title">
            <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+              <!--site tagline-->
+              <small>{{ site.tagline }}</small>
              <!--addition of menu at top of page-->
              <p>{% for page in site.pages_list %}
-             &nbsp;&nbsp;&nbsp;
-             <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-                 {% endfor %}<br></p>
-             <!--site tagline-->
-             <p><small>{{ site.tagline }}</small></p>
+                <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+                 &nbsp;&nbsp;&nbsp;
+                 {% endfor %}</p>
          </h3>
       </div>
 
