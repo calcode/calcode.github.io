@@ -1,17 +1,14 @@
 ---
 layout: page
-title: Speaking & Events
+title: Speaking
 ---
 
-> Links to presentations will be included here.
+I have been delighted to attend and speak at a number of events, focused on digital and digital marketing for both small business and industry. 
 
-Until them, enjoy some placeholder text!
+Previous slides are available through SpeakerDeck. 
 
-There are currently two themes built on Poole:
+Digital Transformation, hosted by [DigitasLBi](http://www.digitaslbi.com/uk/). 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+<script async class="speakerdeck-embed" data-id="ab08866056bf0132648e6658fa5a36ee" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-Thanks
+View more on [SpeakerDeck](https://speakerdeck.com/calcode).

@@ -21,4 +21,6 @@ Speakers included:
 
 Given three busy weeks, I rushed together a couple of slides about our efforts over the last eight months to introduce a passionate digital team to Government. This team, as a collective, tasked with helping organisations transform the way public services are delivered in Scotland. 
 
-> View a great summary via the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015)
+<script async class="speakerdeck-embed" data-id="ab08866056bf0132648e6658fa5a36ee" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+> There is also a summary of the talks available via the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015) - definitely worth a look
