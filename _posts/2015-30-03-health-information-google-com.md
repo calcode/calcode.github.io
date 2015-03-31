@@ -1,8 +1,8 @@
-—
+---
 layout: post
 title: Seeking health information on Google
 permalink: health-information-on-google/
-—
+---
 Unless your settings are a little off and you are currently making use of Google.com, then this change will have passed you by. 
 
 When you do a Google search on Google.com for health related queries, you will likely be presented a unique knowledge graph result right there on the page. 
