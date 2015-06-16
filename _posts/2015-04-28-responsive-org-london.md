@@ -37,7 +37,7 @@ There is a great quote tucked away in there:
 
 I loved the idea of the instant camera photos and the opportunity for people to tell others their interests. It’s great for finding people who want to talk about similar things.
 
-> <a href=“https://twitter.com/hashtag/ResponsiveOrg?src=hash”>#ResponsiveOrg</a> Food after the workshops &amp; before the unconference - big discussions on what we&#39;ve learned! <a href=“http://t.co/tC3FpKGmtB”>pic.twitter.com/tC3FpKGmtB</a> David Terrar (@DT) <a href=“https://twitter.com/DT/status/592760221312937984”</a> April 27, 2015
+> Food after the workshops; before the unconference - big discussions on what we'vve learned! <a href=“http://t.co/tC3FpKGmtB”>pic.twitter.com/tC3FpKGmtB</a> David Terrar (@DT) <ahref=“https://twitter.com/DT/status/592760221312937984”</a> April 27, 2015
 
 ** 5) Don't forgot individuals **
 Spoilt for choice during the workshops, I opted for a more individual focused session titled “Responsive You”. 
