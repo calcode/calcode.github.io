@@ -1,11 +1,20 @@
 ---
 layout: post
-title: Talk @ Scottish Borders tourism partnership conference 2013
+title: Scottish Borders Tourism Conference 2013 - Be digital, your customers are
 permalink: scottish-borders-conference-13/
 ---
-I was kindly asked along to the Scottish Borders Tourism Partnership Conference at the tail end of 2013. Whilst there I spent a bit of time talking about digital marketing and some wider thoughts on digital in general. The deck has now been made available via [VisitScotland](http://www.visitscotland.com).
+I was delighted to talk at the Scottish Borders Tourism Conference, hosting a session titled "Be digital, your customers are".
+
+Inbound marketing is a hot topic at the moment, along with content marketing. It's a huge opportunity for small businesses to increase their visibility and convert customers. 
+
+- get found
+- engage and nurture 
+- convert
+
+The slides have been made available via [VisitScotland](http://www.visitscotland.com), however the Speakerdeck version is the one that was presented on the day.
 
 There are plenty of talks available, including my own, so feel free to go check them out.
 
-- Download ['be digital, your customers are' presentation](http://www.visitscotland.org/pdf/BeDigital.pdf)
-- Download some of the other [VisitScotland presentations](http://www.visitscotland.org/business_support/events_and_training/presentation_listing.aspx), including the ones from the conference. 
+View the ["Be digital, your customers are" slides](http://www.visitscotland.org/pdf/BeDigital.pdf) from Speakerdeck.
+
+You can also view the slides for other talks on the [VisitScotland](http://www.visitscotland.org/business_support/events_and_training/presentation_listing.aspx) website. 

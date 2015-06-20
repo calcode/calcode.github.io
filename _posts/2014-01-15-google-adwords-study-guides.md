@@ -3,15 +3,17 @@ layout: post
 title: Google Adwords certification study guides (fundamentals / advanced)
 permalink: google-adwords-study-guides/
 ---
-Updated: 15/01/2014 (Google Partners Program)
+Updated: 17/06/2015 (Google Partners Program)
 
-Looking to expand your Adwords knowledge? Whether or not you actually manage Adwords campaigns, an understanding of how they work and paid media terminology in general is always going to be a benefit to you.
+Looking to expand your Google Adwords knowledge? Whether you manage Google Adwords campaigns on a daily basis, or are just learning to learn, a Google Adwords Certification can help. The certification will help with your understanding of paid media terminology, how campaigns work provide a method for you to show potential employers what you can do. 
 
-A lot of people will thus look to Google Exams to help with this, as they bundle revision with certification. To help with this, I've listed some Google Adwords Certification study guides that may aid in getting you through both the Fundamental and Advanced Search exams.
+Thus, a lot of people look to the Google Adwords Certification to help with this, as they bundle study guides with certification. To help you with your exams, I've listed some Google Adwords Certification study guides that will help get you through both the Fundamental and Advanced Search Advertising exams.
 
-It is perfectly possible to pass your Google Adwords exam without the need for physical guides or online revision packages. However if you do need some additional reading or would like something for your desk, check this book - [Google AdWords For Dummies - Amazon](http://www.amazon.co.uk/gp/product/1118115619/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=1118115619&amp;linkCode=as2&amp;tag=calsheblo-21).
+It is possible to pass your Google Adwords exam without the need for physical guides or online revision packages. However if you do need additional help or would like something for your desk, this book is a great starting point - [Google AdWords For Dummies book](http://www.amazon.co.uk/gp/product/1118115619/ref=as_li_qf_sp_asin_tl?ie=UTF8&amp;camp=1634&amp;creative=6738&amp;creativeASIN=1118115619&amp;linkCode=as2&amp;tag=calsheblo-21).
 
-Introducing Google Partners program - things have now changed.
+So, where do you sit the exam?
+
+**Introducing the Google Partners program.**
 
 - Google Partner Exams are now free! This means you don't need to pay for your Adwords exams anymore.
 - The new Google Partners website is designed to allow you to revise and sit the exams, all via one portal.
@@ -28,13 +30,13 @@ The Google Partners area provides all the initial steps to get you up and runnin
 - Download the [Google Adwords Fundementals study guide (PDF)](https://support.google.com/partners/answer/3045820?hl=en-GB)
 - Download the [Google Adwords Search Advanced study guide (PDF)](https://support.google.com/partners/answer/3045822?hl=en-GB)
 
-##2. Google Adwords Help Centre </strong>
+##2. Google Adwords Help Centre
 
-Provides help resources for terminology and a run through ranging from basic setup and basics to billing. A strong resource for referencing as opposed to studying for your exam directly.
+The Google Adwords Help Centre help resources for terminology and a run through ranging from basic setup and basics to billing. A strong resource for referencing as opposed to studying for your exam directly.
 
 - Visit the [Google Adwords Help Centre](http://support.google.com/adwords/)
 
-##3. Google Adwords Interface </strong>
+##3. Google Adwords Interface
 
 The Adwords interface will give you the best exposure possible help for you to pass your exam. You will need a valid Google account alongside a name, address and credit card. Don't worry, you can remove your card once you are setup.
 
@@ -50,7 +52,8 @@ Various videos on anything and everything Adwords. You can find a specific playl
 - Visit the [Google YouTube Adwords overview playlist](http://www.youtube.com/playlist?list=PLD30CBD9BA34712EA)
 
 ##5. Other Websites
-Please note, these are additional resources are pretty out of date. However they do provide a bit more context for you if you have additional study time available.
+
+Please note, these are additional resources that are pretty out of date. However they do provide a bit more context for you if you have additional study time available.
 
 - View a[Slideshare deck by Emily Liedblad](http://www.slideshare.net/thejargroup/google-adwords-study-guide-how-to-pass-the-adwords-test)
 - View the a[general certification guide by Tom Demers](http://www.wordstream.com/blog/ws/2011/02/10/adwords-certification-tips)
