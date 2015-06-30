@@ -25,7 +25,7 @@ github:
 pages_list:       
   speaking: '/speaking'
   archive: '/archive'
-  feed: '/atom.xml'
+  feed: '/feed.xml'
 
 # Sitemaps
 gems:
