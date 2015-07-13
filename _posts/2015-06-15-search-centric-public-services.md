@@ -28,11 +28,9 @@ Conversational search allows for us to interact much like we do when conversing 
 
 Conversational search is connecting search queries together as well. You don’t have to think about how you fit everything into one query, as you can refine results over multiple searches. 
 
-> “Who is the prime minister?”
-> *Response* “David Cameron”
+> 1. “Who is the prime minister?” *Response* “David Cameron”
 
-> “How old is he?”
-> *Response* “48 years (October 9, 1966)”
+> 2. “How old is he?” *Response* “48 years (October 9, 1966)”
 
 You don’t have to provide the name twice. Search engines pick up the person in the first search and the reference "he" in the second. 
 
@@ -48,15 +46,15 @@ Basic disclosure is a transactional service provided by Disclosure Scotland. Inf
 
 Using this example, we can take a look at a possible future state.  
 
-> “OK Google” *(launches Android search box)*  
+> 1. “OK Google” *(launches Android search box)*  
 
-> “What is a basic disclosure? *Response* “A basic disclosure is a document containing information about you that can be used by employers to make safer recruitment decisions”
+> 2. “What is a basic disclosure? *Response* “A basic disclosure is a document containing information about you that can be used by employers to make safer recruitment decisions”
 
-> “How much does it cost?” *Response* “A basic disclosure costs £25”
+> 3. “How much does it cost?” *Response* “A basic disclosure costs £25”
 
-> “Can I use a credit card to pay” *Response* “You can pay for a basic disclosure using a credit or debit card” 
+> 4. “Can I use a credit card to pay” *Response* “You can pay for a basic disclosure using a credit or debit card” 
 
-> “How do I apply?” *Response* “You can apply for a basic disclosure online or by post” *(link to apply online)*
+> 5. “How do I apply?” *Response* “You can apply for a basic disclosure online or by post” *(link to apply online)*
 
 We already hold data about Scottish public services through the [Scottish Services list](http://standards.esd.org.uk/?uri=list%2FscottishServices&tab=details) and the Scottish Government services review. 
 
