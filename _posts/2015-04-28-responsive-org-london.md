@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Five highlights from chatting about culture and collaboration at ResponsiveOrg London
+description: Five highlights from chatting about culture and collabortion at ResponsiveOrg London
 permalink: five-highlights-responsiveorg-london/
 ---
-I put together some 'blog' thoughts recently about [ResponsiveOrg](http://blog.calumshep.com/better-collaboration-responsive-org/), it’s [purpose](http://www.responsive.org/aboutus/) and the [manifesto](http://www.responsive.org/manifesto/) that underpins the movement. 
+In the not so distant past I put together some thoughts on [ResponsiveOrg](http://blog.calumshep.com/better-collaboration-responsive-org/), it’s [purpose](http://www.responsive.org/aboutus/) and the [manifesto](http://www.responsive.org/manifesto/) that underpins the movement. 
 
 > The idea is that something isn’t quite right about the operating system of our organisations. There is a real opportunity to move towards clearer purpose and better collaboration. 
 

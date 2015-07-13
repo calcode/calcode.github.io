@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We are moving the cheese
+description: Our learnings so far building something from nothing through empowerment, agile and responsive methods
 permalink: we-are-moving-the-cheese/
 ---
 
