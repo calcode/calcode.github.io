@@ -48,11 +48,15 @@ Basic disclosure is a transactional service provided by Disclosure Scotland. Inf
 
 Using this example, we can take a look at a possible future state.  
 
-> - “OK Google” *(launches Android search box)*  
-> - “What is a basic disclosure? *Response* “A basic disclosure is a document containing information about you that can be used by employers to make safer recruitment decisions”
-> - “How much does it cost?” *Response* “A basic disclosure costs £25”
-> - “Can I use a credit card to pay” *Response* “You can pay for a basic disclosure using a credit or debit card” 
-> - “How do I apply?” *Response* “You can apply for a basic disclosure online or by post” *(link to apply online)*
+> “OK Google” *(launches Android search box)*  
+
+> “What is a basic disclosure? *Response* “A basic disclosure is a document containing information about you that can be used by employers to make safer recruitment decisions”
+
+> “How much does it cost?” *Response* “A basic disclosure costs £25”
+
+> “Can I use a credit card to pay” *Response* “You can pay for a basic disclosure using a credit or debit card” 
+
+> “How do I apply?” *Response* “You can apply for a basic disclosure online or by post” *(link to apply online)*
 
 We already hold data about Scottish public services through the [Scottish Services list](http://standards.esd.org.uk/?uri=list%2FscottishServices&tab=details) and the Scottish Government services review. 
 
