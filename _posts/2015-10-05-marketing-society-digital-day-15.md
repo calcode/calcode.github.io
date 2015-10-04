@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Session @ Marketing Society Digital Day
-permalink: marketing-society-digital-day/
+title: Session @ Marketing Society Digital Day 2015
+permalink: marketing-society-digital-day-15/
 ---
 Thursday saw the annual occurrence of [Marketing Society Scotland’s Digital Day](https://www.marketingsociety.com/events-gallery/digital-day-scotland-2015) take place at Glasgow [Drygate](http://drygate.com/).
 
