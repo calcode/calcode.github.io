@@ -11,7 +11,7 @@ What I found was a great line up of speakers with carefully chosen talks to cove
 
 > Missed the event? Alan Barr, Digital Director of [The Big Partnership](http://www.bigpartnership.co.uk/) kindly made available his [highlights](http://www.bigpartnership.co.uk/blog/digital-marketing/518-big-at-digitalday2015) over on their blog (thanks for the mention Alan!).
 
-I was pleased to be asked to join the afternoon session to share my own experiences. Here are the soundbites:
+I was pleased to be asked to join the afternoon session to listen to the experiences of others and to share my own. Thanks for being so open. Here are my soundbites:
 
 - **digital hides a modern business strategy**, it’s the convergence of things like marketing, communications, change and technology - don’t expect chief digital officers to be around in 10 years
 - we have to accept **we won’t always be able to directly shape the experience for users**. Content is being taken out of context and presented back to users through search engines and personal assistants. So, focus on structured data and help shape this
