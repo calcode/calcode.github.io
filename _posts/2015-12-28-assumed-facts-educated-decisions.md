@@ -9,9 +9,7 @@ There is something beautiful about this definition. It creates a relationship be
 
 [Reasoning](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=reasoning+definition) is “the action of thinking about something in a logical, sensible way”.
 
-We know data is fundamental to what we consider to be good [user centred design](https://en.wikipedia.org/wiki/User-centered_design). 
-
-However using the wrong data is sometimes worse than having no data at all, as it can support questionable decisions and go unnoticed for quite some time. When we use the wrong data to create solutions, we can get stuck in a loop of uneducated change - the opposite of what we are attempting to achieve through true iteration. 
+We know data is fundamental to what we consider to be good [user centred design](https://en.wikipedia.org/wiki/User-centered_design). However using the wrong data is sometimes worse than having no data at all, as it can support questionable decisions and go unnoticed for quite some time. When we use the wrong data to create solutions, we can get stuck in a loop of uneducated change - the opposite of what we are attempting to achieve through true iteration. 
 
 > [change](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=definition%20of%20change) is an act or process through which something becomes different
 
@@ -29,4 +27,6 @@ It is also important to strike the right cadence with any research. Stages like 
 
 Thus, it feels more important than ever to ensure we get the basics right; collecting the right data, at the right time, with the right people involved to present back a series of assumed facts that help us make more educated decisions.
 
-I have a feeling my phrase of 2016 will be ‘assumed facts’. Have a great New Year! 
+I have a feeling my phrase of 2016 will be ‘assumed facts’.
+
+*Have a great New Year!*
