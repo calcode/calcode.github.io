@@ -7,22 +7,22 @@ permalink:        pretty
 
 # Setup
 title:            Calum Shepherd
-tagline:          Digital Strategy, Marketing & Culture
-url:              http://blog.calumshep.com
+tagline:          Product Management
+url:              http://calumshepherd.com
 paginate:         5
 baseurl:          /
 author:
   name:           Calum Shepherd
   url:            https://twitter.com/calumshepherd
-  email:          
+  email:
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
- 
-# Menu 
-pages_list:       
+
+# Menu
+pages_list:
   speaking: '/speaking'
   archive: '/archive'
   feed: '/atom.xml'

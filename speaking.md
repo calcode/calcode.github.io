@@ -3,14 +3,12 @@ layout: page
 title: Speaking
 ---
 
-I have been delighted to speak at events and conferences, with a personal focus on digital strategy, marketing and culture. 
+If you think there is value I could add at your event, give me a shout - always happy to talk with other people in the industry!
 
-Recently I have looked to share learnings from helping the public sector adopt user centric methods and begin to think differently about digital. I also have spoken to small and medium sized businesses for [Marketing Society Scotland](https://www.marketingsociety.com/), [Lean Agile Scotland](http://leanagile.scot/), [DigitasLBi](http://www.digitaslbi.com/uk/) and [VisitScotland](http://www.visitscotland.com/).
+I have spoken at quite a few events over the years, with the most notable events being [Lean Agile Scotland (2015)](http://leanagile.scot/) and [Lean Agile Glasgow (2019)](https://www.meetup.com/Lean-Agile-Glasgow/).
 
-- [We are moving the cheese](https://speakerdeck.com/calumshepherd/we-are-moving-the-cheese). What we learned building something from nothing through empowerment and agile methods
-- [Putting users at the heart of your digital strategy](https://speakerdeck.com/calumshepherd/putting-users-at-the-heart-of-your-digital-strategy)
-- [Be digital, your customers are](https://speakerdeck.com/calumshepherd/be-digital-your-customers-are)
+> [We are moving the cheese](https://speakerdeck.com/calumshepherd/we-are-moving-the-cheese). What we learned building something from nothing through empowerment and agile methods - Holyrood Connect Conference, 2015.
 
-> Visit [SpeakerDeck](https://speakerdeck.com/calumshepherd) to view all available slides.
+Check out [SpeakerDeck](https://speakerdeck.com/calumshepherd) to view some of these. 
 
-If you would like to get in touch to talk about speaking opportunities, I'm available via [LinkedIn](https://uk.linkedin.com/in/calumshepherd) and [Twitter](https://twitter.com/calumshepherd). 
+If you would like to get in touch to talk about speaking opportunities, I'm available via [Twitter](https://twitter.com/calumshepherd) and [LinkedIn](https://uk.linkedin.com/in/calumshepherd).
