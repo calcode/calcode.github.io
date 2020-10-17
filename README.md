@@ -1,6 +1,6 @@
-# blog.calumshep.com
+# calumshepherd.com
 
-*Personal blog* available under http://blog.calumshep.com/
+Repo for my personal blog
 
 -----
 
