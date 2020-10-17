@@ -8,6 +8,6 @@ I have spoken at quite a few events over the years, with the most notable events
 
 > [We are moving the cheese](https://speakerdeck.com/calumshepherd/we-are-moving-the-cheese). What we learned building something from nothing through empowerment and agile methods - Holyrood Connect Conference, 2015.
 
-Check out [SpeakerDeck](https://speakerdeck.com/calumshepherd) to view some of these.
+Check out [SpeakerDeck](https://speakerdeck.com/calumshepherd) to view more of these. 
 
 If you would like to get in touch to talk about speaking opportunities, I'm available via [Twitter](https://twitter.com/calumshepherd) and [LinkedIn](https://uk.linkedin.com/in/calumshepherd).

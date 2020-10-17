@@ -1,7 +1,7 @@
 ---
 layout: page
-title: form-embed-js
-permalink: form-embed
+title: dev
+permalink: dev
 ---
 
 <script>

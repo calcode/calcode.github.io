@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Consultancy
+title: Consulting
 ---
 I am now full time with GeckoEngage as their VP of Product. GeckoEngage are a small EdTech startup rethinking how students communicate with education institutions -  events, forms, messaging and chatbots.
 

@@ -23,7 +23,7 @@ github:
 # Menu
 pages_list:
   speaking: '/speaking'
-  consultancy: '/consultancy'
+  consultancy: '/consulting'
   archive: '/archive'
   feed: '/atom.xml'
 
