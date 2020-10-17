@@ -15,13 +15,13 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
-  
+
   <!-- meta descriptions from YAML -->
   {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
 
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
@@ -30,7 +30,7 @@
 
 
   <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}atom.xml"> 
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}atom.xml">
   {% include google_analytics.html %}
   {% include structured_data_json_ld.html %}
 </head>
