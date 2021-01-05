@@ -8,7 +8,7 @@ permalink: dev
 
 <script>
     window.GeckoChatSettings = {
-        account_id: '4bBhmgvBpjViKcY',
+        account_id: 'FkJRiiEUvBzl7tm',
         auto_boot: true
     };
 </script>
