@@ -2,6 +2,8 @@
 layout: page
 title: Consulting
 ---
-I am now full time with GeckoEngage as their VP of Product. GeckoEngage are a small EdTech startup rethinking how students communicate with education institutions -  events, forms, messaging and chatbots.
+I'm open to new opportunities, both freelance (eg. temporary work, contract opportunities), and permanent employment with the right company.
 
-I'm still available for speaking, can give advice, or nudge you in the right direction wherever I can - just get in touch.
+I'm happy working with a single team as a product manager, or setting the direction for multiple teams and working with product managers to ensure the right outcomes are hit.
+
+I have experience with agile, scrum, teams at various levels of maturity, various technology stacks, and have spent time in financial services, eduction technology, and public sector.

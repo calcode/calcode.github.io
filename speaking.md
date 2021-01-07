@@ -2,12 +2,14 @@
 layout: page
 title: Speaking
 ---
-If you think there is value I could add at your event, give me a shout - always happy to talk with other people in the industry!
+I'm happy to attend most events in the product space, either as an attendee, contributor, or speaker - depending upon the topic.
 
-I have spoken at quite a few events over the years, with the most notable events being [Lean Agile Scotland (2015)](http://leanagile.scot/) and [Lean Agile Glasgow (2019)](https://www.meetup.com/Lean-Agile-Glasgow/).
+I am most interested in alignment, team collaboration and prioritisation techniques at the moment.
 
-> [We are moving the cheese](https://speakerdeck.com/calumshepherd/we-are-moving-the-cheese). What we learned building something from nothing through empowerment and agile methods - Holyrood Connect Conference, 2015.
+I have spoken at quite a few events over the years including [Lean Agile Scotland (2015)](http://leanagile.scot/) and [Lean Agile Glasgow (2019)](https://www.meetup.com/Lean-Agile-Glasgow/).
 
-Check out [SpeakerDeck](https://speakerdeck.com/calumshepherd) to view more of these. 
+> We are moving the cheese](https://speakerdeck.com/calumshepherd/we-are-moving-the-cheese). What we learned building something from nothing through empowerment and agile methods - Holyrood Connect Conference, 2015.
 
-If you would like to get in touch to talk about speaking opportunities, I'm available via [Twitter](https://twitter.com/calumshepherd) and [LinkedIn](https://uk.linkedin.com/in/calumshepherd).
+Check out my [SpeakerDeck](https://speakerdeck.com/calumshepherd) to view other slides from these talks.
+
+You can get in touch with me via [Twitter](https://twitter.com/calumshepherd) and [LinkedIn](https://uk.linkedin.com/in/calumshepherd).
