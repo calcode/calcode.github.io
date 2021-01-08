@@ -1,6 +1,6 @@
-# calumshepherd.com
+# https://calumshepherd.com
 
-Repo for my personal blog
+Repo for my product management blog
 
 -----
 
