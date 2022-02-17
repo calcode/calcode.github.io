@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Product Roadmaps @ LandTech
-permalink: product-roadmaps-landtech
+permalink: landtech-product-roadmaps
 ---
 I wanted to pop together some thoughts on how LandTech have approached the product communities most divisive topic - product roadmaps.
 
