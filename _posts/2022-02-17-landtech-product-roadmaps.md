@@ -1,27 +1,27 @@
 ---
 layout: post
 title: Product Roadmaps @ LandTech
-permalink: landtech-product-roadmaps
+permalink: product-roadmaps
 ---
-I wanted to pop together some thoughts on how LandTech have approached the product communities most divisive topic - product roadmaps.
+I wanted share some thoughts on how our product management team have approached the product communities most divisive topic - product roadmaps.
 
-**What were we aiming for?**
+**What was the aim?**
 
-> Improve our current product roadmap so that everyone across the business could understand what problems we intend to solve for users, in what order, and indicate when customers *might* see these changes
+> Improve our current product roadmap so everyone across the business can understand what problems we intend to solve for users, in what order, and have some indication of when a customer *might* see these changes
 
-**What wasn’t working with the current roadmap?**
+**What wasn’t working so well?**
 
-We have made changes to our roadmap format during the last year that have been quite significant, and seen many changes made at once. Both these roadmaps saw feedback from viewers requesting, at times, conflicting changes.
+We made some significant changes to our roadmap format during the last year, and most of these were made in one go. Many of these were positive. But, both formats saw feedback that was, at times, conflicting.
 
-We began by running a survey to understand what people liked and disliked about the current format.
+We began at the beginning. We ran a survey to understand what people liked and disliked about the current format.
 
-What did we learn? People appeared to be finding the current roadmap confusing and unclear. We hadn’t struck the balance around what we were working on, vs. when people might expect to see these things available.
+What did we learn? People appeared to find the current roadmap unclear. We hadn’t struck the balance around what we were working on, vs. when people might expect to see these things, and consistency in the level of information.
 
-**How did we coordinate this?**
+**How did we coordinate things?**
 
-It was assumed that changing too much in one go would be confusing for everyone involved. Sometimes when you fix three things, you end up causing another three issues in unexpected ways - so we wanted to work from what we had.
+It was assumed that changing too much in one go would be confusing for everyone involved. Sometimes when you fix three problems, you end up causing three other problems - so we wanted to work from what we had.
 
-We followed a little plan to make sure we had a complete picture.
+We followed a little plan to make sure we could do that.
 
 1. Surveyed everyone across the business to understand likes / dislikes
 2. Session with senior management on their needs
@@ -29,14 +29,15 @@ We followed a little plan to make sure we had a complete picture.
 4. Consulted and collaborated with product managers on the changes
 5. Updated the company, and produced guidance
 
-**How does our product roadmap look now?**
+**How does our product roadmap look today?**
 
 - Organised using now / next / later so people know when things will begin
-- Updated titles to reflect customer value
+- Updated titles to be clear on the value to customers
 - Aligned to objectives
 - Added consistent descriptions
 - Statuses provided (new idea, candidate, discovery, delivery, shipped etc)
 - Indicative release window (eg. Q4, or March 2022) on the card
+- Consistent level of granularity between items
 - Linked to opportunity assessments (an assessment of the value of the idea)
 
 Here is the internal product roadmap format...
@@ -45,9 +46,9 @@ Here is the internal product roadmap format...
 
 **What about public product roadmaps?**
 
-We’re keeping this one internal only, as the full breadth of information isn’t appropriate for making available externally.
+We’re keeping our product roadmap internal only, as all this information isn't useful for our customers.
 
-However, we have now created an alternative for our customer community to consume. It’s going to be used to gather more direct feedback around our ideas.
+However, we have a draft of an alternative product roadmap for our community to consume. It’s going to be used to gather feedback around things which we need more information about, helping to ensure we deliver the right thing for customers. So, for that reason the format differs.  
 
 - Organised using now available / in progress / considering (split into thinking about doing, and need more feedback on)
 - Reduced information on each card, with now available / in progress including a sketch of the idea
@@ -58,4 +59,6 @@ Here is the public product roadmap format...
 
 **What next?**
 
-We’re going to monitor feedback from the teams about the changes, and see where we can make further improvements. And, we’re intending on rolling out the public product roadmap to our community in the near term - yeehaw.
+It's going to be about monitoring feedback now, and seeing where we can make further improvements. We're also looking at rolling out the public product roadmap to our community in the near term - which is pretty exciting!
+
+C
