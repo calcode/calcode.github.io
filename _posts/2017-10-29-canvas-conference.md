@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canvas Conference - An Emotional Rollercoaster
+title: Canvas Conference - an emotional rollercoaster
 permalink: canvas-conference
 ---
 

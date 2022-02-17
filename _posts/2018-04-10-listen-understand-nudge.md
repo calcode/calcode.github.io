@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listen, Understand & Nudge
+title: Listen, understand and nudge
 permalink: listen-understand-nudge
 ---
 

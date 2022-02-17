@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Visualising IA with Mind Node
+title: Visualising IA with MindNode
 permalink: visualing-information-architecture-mindnode
 ---
 
