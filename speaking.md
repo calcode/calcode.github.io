@@ -2,10 +2,12 @@
 layout: page
 title: Speaking
 ---
-I'm super happy to attend events in the product management space, either as an attendee or a speaker.
+I enjoy speaking at product management and agile events. I'm most interested in discovery and prioritisation techniques right now, and getting these right day to day.
 
-I'm most interested in discovery and prioritisation techniques at the moment.
+Recent talks include;
 
-> I have spoken at quite a few events over the years, including [EuroGeographics in Prague (2018)](https://eurogeographics.org/), [Lean Agile Scotland (2015)](http://leanagile.scot/) and [LeanAgile Glasgow (2019)](https://www.meetup.com/Lean-Agile-Glasgow/).
+- [LeanAgile Glasgow (2019)](https://www.meetup.com/Lean-Agile-Glasgow/)
+- [EuroGeographics in Prague (2018)](https://eurogeographics.org/)
+- [Lean Agile Scotland (2015)](http://leanagile.scot/)
 
 You can get in touch with me via [Twitter](https://twitter.com/calumshepherd) and [LinkedIn](https://uk.linkedin.com/in/calumshepherd).
