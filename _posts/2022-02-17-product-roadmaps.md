@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Product roadmap examples @ LandTech
-permalink: product-roadmap-examples
+title: Product roadmaps @ LandTech
+permalink: product-roadmaps
 ---
 I wanted share some thoughts on how our product management team have approached the product communities most divisive topic - product roadmaps.
 
