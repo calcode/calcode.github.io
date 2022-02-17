@@ -9,7 +9,7 @@ I wanted share some thoughts on how our product management team have approached 
 
 > Improve our current product roadmap so everyone across the business can understand what problems we intend to solve for users, in what order, and have some indication of when a customer *might* see these changes
 
-## What wasn’t working so well?
+## What were the areas for improvement?
 
 We made some significant changes to our roadmap format during the last year, and most of these were made in one go. Many of these were positive. But, both formats saw feedback that was, at times, conflicting.
 
