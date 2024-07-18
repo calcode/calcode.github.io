@@ -22,17 +22,15 @@ Read on to find out more about each and how to apply them as a Product Manager.
 
 ### Murphy’s law
 
-> “Murphy's law is an adage that is typically stated as: "Anything that can go wrong will go wrong." In some formulations, it is extended to "Anything that can go wrong will go wrong, and at the worst possible time”” - Wikipedia
+> “Murphy's law is an adage that is typically stated as: "Anything that can go wrong will go wrong." In some formulations, it is extended to "Anything that can go wrong will go wrong, and at the worst possible time””
 
 Sounds gloomy.
 
 I remember this one from Interstellar, and it’s stuck with me ever since.
 
-Here are a few takeaways for budding Product Managers:
-
-If you have worked in the software industry for some time, you know everything isn’t plain sailing. There’s so much within your control, but a whole lot more is dependent upon others playing their part (e.g., usable designs, reliable code, etc.).
-Conduct sufficient planning to consider major edge cases or potential problems. Discuss designs and implementations with engineering, considering the customer perspective to help mitigate issues.
-When things do go wrong, tackle them with positive energy and engage the right people. You can view it as a frustrating failure or an opportunity to learn—positivity and proactivity are important.
+- If you have worked in the software industry for some time, you know everything isn’t plain sailing. There’s so much within your control, but a whole lot more is dependent upon others playing their part (e.g., usable designs, reliable code, etc.).
+- Conduct sufficient planning to consider major edge cases or potential problems. Discuss designs and implementations with engineering, considering the customer perspective to help mitigate issues.
+- When things do go wrong, tackle them with positive energy and engage the right people. You can view it as a frustrating failure or an opportunity to learn—positivity and proactivity are important.
 
 ### Gilbert’s Law
 
