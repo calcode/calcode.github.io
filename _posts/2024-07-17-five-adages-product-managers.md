@@ -4,13 +4,9 @@ title: Five adages and how to apply them as a Product Manager
 permalink: five-adages-product-manager
 ---
 
-Instagram.
+Five of my favourite adages.
 
-A platform filled with content from friends and wildly unpredictable posts from influencers. But every now and then, an influencer shares a gem of a post that stands out—a diamond in the rough.
-
-That’s what happened to me yesterday.
-
-Library Mindset shared five common laws, or what I like to call adages. These resonated with me instantly, and I began to wonder how they apply to us as Product Managers.
+These all resonated with me instantly, and not just because one of them is from my favourite movie of all time!  
 
 - Murphy’s Law
 - Gilbert’s Law
@@ -18,7 +14,7 @@ Library Mindset shared five common laws, or what I like to call adages. These re
 - Wilson’s Law
 - Falkland’s Law
 
-Read on to find out more about each and how to apply them as a Product Manager.
+Read on to find out more about each and how to apply them.
 
 ### Murphy’s law
 
