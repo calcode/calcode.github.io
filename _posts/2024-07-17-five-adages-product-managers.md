@@ -12,11 +12,11 @@ That’s what happened to me yesterday.
 
 Library Mindset shared five common laws, or what I like to call adages. These resonated with me instantly, and I began to wonder how they apply to us as Product Managers.
 
-Murphy’s Law
-Gilbert’s Law
-Kidlin’s Law
-Wilson’s Law
-Falkland’s Law
+- Murphy’s Law
+- Gilbert’s Law
+- Kidlin’s Law
+- Wilson’s Law
+- Falkland’s Law
 
 Read on to find out more about each and how to apply them as a Product Manager.
 
