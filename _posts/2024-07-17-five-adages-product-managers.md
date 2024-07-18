@@ -4,7 +4,7 @@ title: Five adages and how to apply them as a Product Manager
 permalink: five-adages-product-manager
 ---
 
-Five of my favourite adages.
+I spotted these adages on the web a few days back.
 
 These all resonated with me instantly, and not just because one of them is from my favourite movie of all time!  
 
