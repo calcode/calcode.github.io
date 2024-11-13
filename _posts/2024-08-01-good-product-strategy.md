@@ -1,16 +1,20 @@
 ---
 layout: post
-title: Learning what makes a good product strategy
+title: Qualities of good product strategy
 permalink: good-product-strategy
 ---
 
-I set out to answer the question 'What makes a good product strategy?'.
+I set out to answer the question 'What are the qualities of a good product strategy?'.
 
-I want to create strategies which are well understood, and for colleagues to feel comfortable socialising them across the company.
+We all aim to create strategies that are well understood and for colleagues to feel comfortable socialising them more broadly, but just how do we go about doing that?
 
-It felt like strategies should have some consistent qualities to allow for this to happen, and if I got those right I could then spend more time worrying about the what and the why of the strategy itself.
+It felt like strategies should have some consistent qualities, and if we get those right then we could free up our time to worry about the 'what' of the strategy.   
 
-Read on to find out what I learned...  
+So, I spent some time doing some research.
+
+I'm going to cover what a strategy is, why one is important, what to avoid, and what to aim for.
+
+I hope it helps you as much as it's helped me!
 
 ### What is a strategy?
 > “a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations” - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/strategy)
