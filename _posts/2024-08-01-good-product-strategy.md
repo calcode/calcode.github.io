@@ -6,7 +6,7 @@ permalink: good-product-strategy
 
 I set out to answer the question 'What are the qualities of a good product strategy?'.
 
-We all aim to create strategies that are well understood and for colleagues to feel comfortable socialising them more broadly, but just how do we go about doing that?
+We all aim to create strategies that are well understood and for colleagues to feel comfortable socialising them, but just how do we go about doing that?
 
 It felt like strategies should have some consistent qualities, and if we get those right then we could free up our time to worry about the 'what' of the strategy.   
 
