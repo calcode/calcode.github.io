@@ -1,24 +1,33 @@
 ---
 layout: post
-title: Putting users at the heart of your digital strategy
+title: What's Next in Digital Talk
 permalink: putting-users-at-the-heart-digital-strategy/
 ---
 
-I was delighted to be asked by [DigitasLBi](http://www.digitaslbi.com/global/) to talk at "What's next in digital transformation". 
+I was delighted to be invited by [DigitasLBi](http://www.digitaslbi.com/global/) to speak at their event, *"What's Next in Digital"*  
 
-Given three busy weeks, I thought about what I could share that might be of value for others. So, I focused on our early process to ensure users are front and centre when producing information about public services.
+With just three busy weeks to prepare, I reflected on what might provide the most value to others. My focus landed on our early approach to ensuring that **users are front and centre** when creating information about public services.
 
-> Putting users at the heart of your digital strategy, essentially a look at our early efforts
+> **Putting users at the heart of your digital strategy**  
+> A reflection on our early efforts and lessons learned.
 
-<script async class="speakerdeck-embed" data-id="ab08866056bf0132648e6658fa5a36ee" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
-This also provided me with a perfect opportunity to listen to some other interesting talks. These talks included emerging digital trends (Digitas LBi), organisational transformation and change (Standard Life), innovation in media (STV) and tips on optimising app store games to increase downloads (Channel 4).
+## A Chance to Learn From Other Experts
 
-The other talks were:
+The event also gave me the perfect opportunity to listen to fascinating talks from industry leaders. The topics covered included:
 
-- John Monks, Head of Digital Business Design, DigitasLBi
-- Mary Harper, Head of Customer and Digital Marketing, Standard Life
-- David Milne, Head of Digital Publishing, STV
-- Colin Macdonald, Commissioning Editor for Games, Channel 4
+- **Emerging Digital Trends**  
+  *By John Monks, Head of Digital Business Design, DigitasLBi*  
+- **Organisational Transformation and Change**  
+  *By Mary Harper, Head of Customer and Digital Marketing, Standard Life*  
+- **Innovation in Media**  
+  *By David Milne, Head of Digital Publishing, STV*  
+- **Tips on Optimising App Store Games to Increase Downloads**  
+  *By Colin Macdonald, Commissioning Editor for Games, Channel 4*
 
-> There is also a summary of all the talks, including my own, available on the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015) and I would suggest it is worth a look
+These presentations offered valuable insights across a variety of fields and sparked plenty of thought-provoking discussions.
+
+
+## Want More?  
+
+There’s a comprehensive summary of all the talks, including mine, on the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015). It’s well worth a read if you’re interested in digital transformation and innovation.

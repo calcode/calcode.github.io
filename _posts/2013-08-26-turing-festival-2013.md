@@ -1,25 +1,23 @@
 ---
 layout: post
-title: Turing Festival 2013 highlights
+title: Turing Festival 2013 Review
 permalink: turing-festival-2013/
 ---
-I was lucky enough to attend the [Turing Festival](http://turingfestival.com/) in Edinburgh on the 24th and 25th August 2013. Turing took place over a 2 day period towards the tail of the [Edinburgh Festival](http://www.edinburghfestivals.co.uk/), meaning the city was still in top form. The talks were diverse and interesting, with many speakers using technology as a foundation, as opposed to being the subject itself. This made the festival feel more dynamic, interesting and engaging than your run of the mill event. 
+I was fortunate enough to attend the [Turing Festival](http://turingfestival.com/)  in Edinburgh on the 24th and 25th of August, 2013. The festival took place over two days, towards the tail end of the [Edinburgh Festival](http://www.edinburghfestivals.co.uk/), meaning the city was still buzzing with energy. The talks were diverse and captivating, with many speakers using technology as a foundation, rather than the subject itself. This approach made the festival feel more dynamic, engaging, and thought-provoking than your typical event.
 
-<img src="http://uploads.calumshep.com/turing-festival.jpg"/>
+## What talks did I attend? 
 
-##Talks attended
+Five Startups Go Mad in Edinburgh
+Future of Money
+Digital Distribution
+Digital Marketing & Growth Hacking
+Festival Keynote by Neal Stephenson
+Future of Music
 
-- Five Startups go mad in Edinburgh
-- Future of Money
-- Digital Distribution
-- Digital Marketing &amp; Growth Hacking
-- Festival Keynote by Neil Stephenson
-- Future of Music
+##Future of money highlights
 
-##Future of money highlights;
-
-- [Sandra Alzetta](http://www.iabuk.net/people/sandra-alzetta) from Visa gave a extremely grounded speech. She placed a large focus on mobile payments on smartphones, alongside contactless plastic cards. She was keen to highlight the future is both mobile AND plastic, with each having a place in the Visa vision of the future of payments.
-- [Mike Hearn](http://plan99.net/~mike/#top) from Bitcoin (and Google)'s speech had to be one of the highlights of the festival. Mike's talk was extremely wide ranging, featuring Google driverless cars and explaining a potential bleak outlook for anyone who doesn't work in the creative sector. He presented a vision for the future focused on a TradeNet and it's autonomous agents - all removing the need for human involvement in more manual, repetitive tasks. A future where machines will run their own businesses, competing in a marketplace against each other for human business. A fascinating insight! He also mentioned some background and ideology on Bitcoin, but this was really overshadowed by everything that preceded it.
+- [Sandra Alzetta](http://www.iabuk.net/people/sandra-alzetta) from Visa delivered a grounded speech focusing on mobile payments via smartphones and contactless plastic cards. She emphasized that the future of payments is both mobile and plastic, with each playing an essential role in Visa’s vision
+- [Mike Hearn](http://plan99.net/~mike/#top) from Bitcoin (and previously Google) gave a fascinating talk that was one of the highlights of the festival. His presentation was wide-ranging, discussing everything from Google’s driverless cars to the future of work. He painted a picture of a future dominated by autonomous agents in a TradeNet system, where machines run their own businesses, competing for human business. He also touched on Bitcoin but this was overshadowed by the broader, thought-provoking concepts he introduced
 
 > Social reviews don't make that much sense, says Mike Hearn of Google. Lots of spam and strangers #turingfest — [Andrew Girdwood (@AndrewGirdwood)](https://twitter.com/AndrewGirdwood/statuses/370910677512486912) - August 23, 2013
 
@@ -27,22 +25,22 @@ I was lucky enough to attend the [Turing Festival](http://turingfestival.com/) i
 
 > Visa Europe forecast 50% of their transactions by 2020 will be mobile #turingfest — [Calum Shepherd (@calumshepherd)](https://twitter.com/calumshepherd/statuses/370903909248028672) - August 23, 2013
 
-##Digital distribution highlights;
-- The highlight of the digital distribution talks had to be [DJ Powers from Valve](http://www.linkedin.com/pub/dj-powers/67/70/495). He gave insight into the Steam eco-system and their recent developments in community contribution. [Team Fortress 2](http://www.teamfortress.com/">Team Fortress 2) is one of their most recent success stories, seeing a marketplace built out around digital products and official community updates - launched for the entire player base. A success story included a hat seller (for in-game characters) who achieved 6 digit profits for his creations.
+##Digital distribution highlights
+The standout session in digital distribution came from [DJ Powers from Valve](http://www.linkedin.com/pub/dj-powers/67/70/495). He gave insight into the Steam eco-system and their recent developments in community contribution. [Team Fortress 2](http://www.teamfortress.com/">Team Fortress 2) is one of their most recent success stories, seeing a marketplace built out around digital products and official community updates - launched for the entire player base. A success story included a hat seller (for in-game characters) who achieved 6 digit profits for his creations.
 
 > Team Fortress Community Update biggest grossing hour for them after launch. Awesome #turingfest — [Calum Shepherd (@calumshepherd)](https://twitter.com/calumshepherd/statuses/370945261469986816) - August 23, 2013
 
 ##Digital marketing and growth hacking
 
-[Brian Doll from GitHub](http://emphaticsolutions.com/) was first up, reinforcing the need for great marketing to follow a simple philosophy:
+- [Brian Doll from GitHub](http://emphaticsolutions.com/) kicked off this session, reinforcing the need for great marketing based on a simple philosophy:
 > "Build Something, Tell People"
 
-This was an interesting concept that caused split opinion in regards to how easy this is to implement in a large scale organisation. None the less, an ideal that everyone should aspire to. Plus, he had a great animated GIF used across both his presentations!
-- [Andrew Girdwood](http://blog.arhg.net/), a former colleague from my time agency side, was presenting his thoughts on the future of digital. A compelling presentation covering native content, examples on how companies are now founded around video seeding / testing and mobile real time bidding.
-- [JP Rangaswami](http://confusedofcalcutta.com/about-me/) from Salesforce was quite inspiring. I didn't manage to take any notes from the talk, but came away throughly impressed with his ability to tell stories and bring the audience with him on a journey through technology.
+This concept sparked some debate, particularly regarding its application in large-scale organizations. Nonetheless, it’s an ideal that everyone should aspire to, and Brian’s use of an animated GIF across his presentations was a hit!
+
+- [JP Rangaswami](http://confusedofcalcutta.com/about-me/) from Salesforce delivered an inspiring presentation. While I didn’t take notes, I was thoroughly impressed by his storytelling ability and how he guided the audience through the ever-evolving landscape of technology.
 
 > "Living infographics". Steven Drost from Stipso explains how text can become more than a sum of its parts #turingfest — [Calum Shepherd (@calumshepherd)](https://twitter.com/calumshepherd/statuses/371204304608456704) - August 24, 2013
 
 > Focus on tribes. Focus on communities that already exist's Brian Doll from @github - [Calum Shepherd (@calumshepherd)](https://twitter.com/calumshepherd/statuses/371198273882980352) - August 24, 2013
 
-If you would like to find out more, check out the [Turing Festival website](http://turingfestival.com/).
+If you’d like to learn more about the event, check out the official [Turing Festival website](http://turingfestival.com/).

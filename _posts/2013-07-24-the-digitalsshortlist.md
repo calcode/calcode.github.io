@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Shortlisted for the digitals 2013
-permalink: the-digitalsshortlist/
+title: Digitals 2013 Award Runner Up
+permalink: the-digitals-shortlist/
 ---
 Some good news! Although a little late in highlighting, the digital team at VisitScotland were shortlisted for an [E-Consultancy #TheDigitals Travel and Tourism](http://thedigitalsawards.com/) award, back in May 2013.
 
-Our campaign was focused around Shetland ponies in cardigans, one which saw solid work from our PR team and some great content production to make it a success. Results were quality search positions for related terms, TV features in the US and on-going engagement on social media. We are still seeing a continued flow of traffic to our blog post on the ponies. The post continues to be the most successful single page we have ever put live on our .com.
+Our campaign, which revolved around Shetland ponies in cardigans, was a collaborative effort that saw strong work from our PR team and impressive content production. The results were excellent: high-quality search rankings for related terms, TV features in the US, and ongoing engagement on social media. Even now, we continue to see a steady stream of traffic to our blog post about the ponies. It remains the most successful single page we’ve ever published on our .com site.
 
-The ponies were fresh, creative and an excellent example of cross-team collaboration.
+The Shetland ponies were a fresh, creative idea and a perfect example of cross-team collaboration.
 
-The US TV spot on CNN is included below.
+Here’s the US TV spot from CNN
 
-<iframe src="//www.youtube.com/embed/PfaRtzDNePc" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="http://www.youtube.com/embed/PfaRtzDNePc" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
 
-Unfortunately we didn't win on the night, but a good result none the less for the organisation!
+Although we didn’t win that night, it was still a fantastic outcome for the team and the company. 
 
-Check out the original [Shetland ponies blog post](http://www.visitscotland.com/blog/scotland/shetland-ponies-in-cardigans/) over @ the VisitScotland blog.
+You can check out the original [Shetland ponies blog post](http://www.visitscotland.com/blog/scotland/shetland-ponies-in-cardigans/) over at the VisitScotland blog.
