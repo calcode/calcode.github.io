@@ -4,57 +4,66 @@ title: Qualities of Good Product Strategy
 permalink: good-product-strategy
 ---
 
-I set out to answer the question 'What are the qualities of a good product strategy?'.
+I set out to answer the question: *What are the qualities of a good product strategy?*
 
-We all aim to create strategies that are well understood and for colleagues to feel comfortable socialising them, but just how do we go about doing that?
+We all aim to create strategies that are well understood, enabling colleagues to feel comfortable socialising them. But how exactly do we achieve that?
 
-It felt like strategies should have some consistent qualities, and if we get those right then we could free up our time to worry about the 'what' of the strategy.   
+It felt like strategies should have some consistent qualities. If we get those right, we can free up time to focus on the *what* of the strategy.  
 
-So, I spent some time doing some research.
+So, I spent some time researching.  
 
-I'm going to cover what a strategy is, why one is important, what to avoid, and what to aim for.
+This post covers: 
+- What a strategy is
+- Why it’s important
+- What to avoid
+- What to aim for  
 
-I hope it helps you as much as it's helped me!
+I hope it helps you as much as it’s helped me!
+
 
 ### What is a strategy?
-> “a detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations” - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/strategy)
+> *“A detailed plan for achieving success in situations such as war, politics, business, industry, or sport, or the skill of planning for such situations”* - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/strategy)
 
-The key thing for me here was the phrase ‘detailed plan’. I have always tried to make them as clear as possible, and clear often means a sufficient level of detail - so it sounds like I was on the right track.
+The key phrase here for me is *“detailed plan.”* I’ve always tried to make strategies as clear as possible. Clear often means a sufficient level of detail—so it sounds like I was on the right track.
+
 
 ### Why is strategy so important?
-Your product strategy is what drives alignment and coordination across your company. It ensures everyone is pulling in the same direction at the same point in time. It’s about creating focus.
+Your product strategy drives alignment and coordination across your company. It ensures everyone pulls in the same direction at the same time. It’s about creating focus.
 
-Imagine shipping a series of new features for a specific segment over the month and your marketing campaigns all being ready to go, customer success talking about them with confidence, support being ready to answer questions, and sales pitching to these new segments.
+Imagine shipping a series of new features for a specific segment. Marketing campaigns are ready to go, customer success teams discuss them confidently, support teams are prepared to answer questions, and sales teams pitch to the new segments.  
 
-This really resonated too, and definitely felt like something I had been aiming for.
+This resonates deeply with me and feels like exactly what I’ve been aiming for.
 
-### What makes a bad strategy
-Sometimes it is easier to start with what something isn't.  
 
-- It isn’t **fluffy**. Some people might explain that strategies ‘aren’t supposed to be actionable’. They’ll paint a vague picture for you, leaving you unable to take action. That isn't ideal. If it isn’t actionable, it isn’t a meaningful strategy
-- It isn’t **financial metrics**. Simply telling your teams to increase revenue shouldn't really be considered a strategy either; it’s a method to measure success. If you target X segment with Y value to achieve Z revenue, then that's a much better place to be
-- It isn’t **how your teams collaborate** either. Explaining how your teams will work together isn’t a strategy; that's probably more a topology. Team topologies define the purpose and relationship of teams. They are important, no doubt, but I'd steer clear calling them a strategy
+### What makes a bad strategy?
+Sometimes, it’s easier to start with what a strategy *isn’t*:  
 
-If you are into team topologies, then you can read a great post on team topologies by [Martin Fowler](https://martinfowler.com/bliki/TeamTopologies.html). It's a fantastic read :)
+- **It isn’t fluffy.** Some people argue that strategies aren’t supposed to be actionable, painting vague pictures that leave you unable to take action. That isn’t ideal. If it isn’t actionable, it isn’t meaningful.  
+- **It isn’t financial metrics.** Simply telling your teams to "increase revenue" isn’t a strategy; it’s a way to measure success. Instead, targeting X segment with Y value to achieve Z revenue—that’s a much better approach.  
+- **It isn’t how your teams collaborate.** Explaining how teams work together isn’t strategy—it’s more about topology. Team topologies define the purpose and relationships of teams. They’re important, but don’t mistake them for strategy.
+
+If you’re into team topologies, check out this excellent post by [Martin Fowler](https://martinfowler.com/bliki/TeamTopologies.html). It’s a fantastic read.  
+
 
 ### What makes a good strategy?
-The best write up I found wasn't from a product management source (surprisingly). It’s [Good Strategy, Bad Strategy by Richard Rumelt](https://www.amazon.co.uk/Good-Strategy-Bad-difference-matters/dp/1781256179/ref=asc_df_1781256179/?tag=googshopuk-21&linkCode=df0&hvadid=697308647252&hvpos=&hvnetw=g&hvrand=13959286353907761805&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9046885&hvtargid=pla-566591824724&psc=1&mcid=5e5268e4d1bc3ecb8573ccddbfcd0784&th=1&psc=1&gad_source=1). You can pick it up on Amazon for cheap as chips.
+Surprisingly, the best write-up I found wasn’t from a product management source. It’s from *[Good Strategy, Bad Strategy](https://www.amazon.co.uk/Good-Strategy-Bad-difference-matters/dp/1781256179)* by Richard Rumelt. You can grab it on Amazon for a great price.  
 
-And, this excellent [Marty Cagan piece on product strategy](https://www.svpg.com/product-strategy-overview/).
+Also, this [Marty Cagan piece on product strategy](https://www.svpg.com/product-strategy-overview/) is excellent.  
 
-So, what makes a good strategy?
-- It identifies a series of problems or opportunities
-- Written in the order you’ll tackle them
-- Each has a diagnosis breaking things down a little
-- Each has a series of actions for the team(s) to enact
+So, what makes a good strategy?  
 
-Additionally, a good strategy should also:
-- Be in plain English
-- Have a ‘curator’, or ‘owner’
-- Be updated when new insights come to light
-- Be re-communicated when changed
-- Be an iterative document
-- Be explainable by everyone across the company
-- Move you towards your product vision
+1. **It identifies a series of problems or opportunities.**  
+2. **It’s written in the order you’ll tackle them.**  
+3. **Each problem/opportunity has a diagnosis.** Breaking things down a little goes a long way.  
+4. **It includes a series of actions for teams to enact.**  
 
-I'm planning to stick to this from now on, and hopefully it'll allow me to continue refining things for the better in the coming months!
+Additionally, a good strategy should:  
+- Be in plain English  
+- Have a “curator” or “owner”  
+- Be updated when new insights come to light  
+- Be re-communicated when changes are made  
+- Be an iterative document  
+- Be explainable by everyone across the company  
+- Move you toward your product vision  
+
+I plan to stick to this framework moving forward. Hopefully, it’ll allow me to keep refining my strategies for the better in the coming months!
