@@ -12,7 +12,7 @@ It felt like strategies should have some consistent qualities. If we get those r
 
 So, I spent some time researching.  
 
-This post covers: 
+This post covers
 - What a strategy is
 - Why it’s important
 - What to avoid
@@ -38,9 +38,9 @@ This resonates deeply with me and feels like exactly what I’ve been aiming for
 ### What makes a bad strategy?
 Sometimes, it’s easier to start with what a strategy *isn’t*:  
 
-- **It isn’t fluffy.** Some people argue that strategies aren’t supposed to be actionable, painting vague pictures that leave you unable to take action. That isn’t ideal. If it isn’t actionable, it isn’t meaningful.  
-- **It isn’t financial metrics.** Simply telling your teams to "increase revenue" isn’t a strategy; it’s a way to measure success. Instead, targeting X segment with Y value to achieve Z revenue—that’s a much better approach.  
-- **It isn’t how your teams collaborate.** Explaining how teams work together isn’t strategy—it’s more about topology. Team topologies define the purpose and relationships of teams. They’re important, but don’t mistake them for strategy.
+- **It isn’t fluffy.** Some people argue that strategies aren’t supposed to be actionable, painting vague pictures that leave you unable to take action. That isn’t ideal. If it isn’t actionable, it isn’t meaningful
+- **It isn’t financial metrics.** Simply telling your teams to "increase revenue" isn’t a strategy; it’s a way to measure success. Instead, targeting X segment with Y value to achieve Z revenue—that’s a much better approach
+- **It isn’t how your teams collaborate.** Explaining how teams work together isn’t strategy—it’s more about topology. Team topologies define the purpose and relationships of teams. They’re important, but don’t mistake them for strategy
 
 If you’re into team topologies, check out this excellent post by [Martin Fowler](https://martinfowler.com/bliki/TeamTopologies.html). It’s a fantastic read.  
 
@@ -52,10 +52,10 @@ Also, this [Marty Cagan piece on product strategy](https://www.svpg.com/product-
 
 So, what makes a good strategy?  
 
-1. **It identifies a series of problems or opportunities.**  
-2. **It’s written in the order you’ll tackle them.**  
-3. **Each problem/opportunity has a diagnosis.** Breaking things down a little goes a long way.  
-4. **It includes a series of actions for teams to enact.**  
+1. **It identifies a series of problems or opportunities**  
+2. **It’s written in the order you’ll tackle them**  
+3. **Each problem/opportunity has a diagnosis**. Breaking things down a little goes a long way  
+4. **It includes a series of actions for teams to enact**  
 
 Additionally, a good strategy should:  
 - Be in plain English  
