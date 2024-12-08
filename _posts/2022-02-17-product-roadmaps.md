@@ -6,13 +6,11 @@ permalink: product-roadmaps
 
 I wanted to share some thoughts on how our product management team has approached one of the most divisive topics in the product community: product roadmaps.
 
----
 
 ## What was the aim?
 
 > Improve our current product roadmap so everyone across the business can understand what problems we intend to solve for users, in what order, and have some indication of when a customer *might* see these changes.
 
----
 
 ## What problem were we looking to solve?
 
@@ -28,13 +26,12 @@ The survey revealed that people found the roadmap unclear. Specifically, we hadn
 - When people might expect to see these changes  
 - Consistency in the level of detail provided
 
----
 
 ## How did we action the changes?
 
 We assumed that changing too much at once could create confusion. When solving multiple problems simultaneously, there’s always a risk of introducing new ones. To avoid this, we decided to work incrementally, starting with the existing format.
 
-### Our process:
+### Our process
 
 1. **Surveyed the business** to gather likes and dislikes about the current roadmap.  
 2. Held a **session with senior management** to understand their needs.  
@@ -42,7 +39,6 @@ We assumed that changing too much at once could create confusion. When solving m
 4. **Collaborated with product managers** to refine the updates.  
 5. **Communicated updates** to the company and provided guidance on the new roadmap.  
 
----
 
 ## Roadmap qualities
 
@@ -57,11 +53,10 @@ We introduced several key changes to make the roadmap clearer and more actionabl
 - **Consistent granularity** between items to improve readability.  
 - **Links to opportunity assessments** for evaluating the value of ideas.  
 
-### Example internal roadmap: 
+### Example internal roadmap:
 
 [![13PrMX.md.png](https://iili.io/13PrMX.md.png)](https://freeimage.host/i/13PrMX)
 
----
 
 ## What about a public roadmap? 
 
@@ -77,7 +72,6 @@ However, we’re working on an alternative public roadmap format for our communi
 
 [![13P4Pn.md.png](https://iili.io/13P4Pn.md.png)](https://freeimage.host/i/13P4Pn)
 
----
 
 ## What’s next?
 
