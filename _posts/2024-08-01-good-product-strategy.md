@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qualities of good product strategy
+title: Qualities of Good Product Strategy
 permalink: good-product-strategy
 ---
 
