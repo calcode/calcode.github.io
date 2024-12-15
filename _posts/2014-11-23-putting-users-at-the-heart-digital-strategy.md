@@ -28,6 +28,6 @@ The event also gave me the perfect opportunity to listen to fascinating talks fr
 These presentations offered valuable insights across a variety of fields and sparked plenty of thought-provoking discussions.
 
 
-## Want More?  
+## Want to know more?  
 
 There’s a comprehensive summary of all the talks, including mine, on the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015). It’s well worth a read if you’re interested in digital transformation and innovation.

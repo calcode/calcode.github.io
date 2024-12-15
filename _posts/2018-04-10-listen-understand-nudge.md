@@ -34,9 +34,9 @@ Understanding begins when you start connecting all the pieces into a coherent wh
 
 ## Nudge
 
-Once you’ve started to understand the landscape, it’s time to make small interventions where they can be valuable. 
+Once you’ve started to understand the landscape, it’s time to make small interventions where they can be valuable.
 
-Work with individuals on specific opportunities to steer things in the right direction—nudging gently but purposefully. 
+Work with individuals on specific opportunities to steer things in the right direction—nudging gently but purposefully.
 
 Collaborate with the team on broader challenges, like identifying new problems to solve or answering critical questions together.
 

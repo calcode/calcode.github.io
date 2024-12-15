@@ -16,12 +16,12 @@ Let’s explore an example Ross shared with me: [Britain Magazine](http://www.br
 Britain Magazine boosts Facebook Like button clicks by adding the ability to share individual quotes on a page. The challenge, however, is that only one set of Open Graph mark-up can be applied to a page. This means that the entire page would need to be focused on a single quote, despite containing other valuable content.
 
 
-##How do they achieve this?
+## How do they achieve this?
 It’s quite simple! They use one Like button for the homepage and then link to unique URLs for each quote. These URLs feature their own relevant Open Graph mark-up.
 
 This method ensures that every quote has its own unique URL. The visitor is not technically sharing the quote itself, but the unique URL for that quote—something the typical user won't notice. The actual URL being shared can be seen within the iFrame.
 
-##The user journey
+## The user journey
 - A visitor lands on [http://www.britain-magazine.com](http://www.britain-magazine.com/)
 - The visitor clicks the like button next to a quote
 - The visitor shares a unique URL [http://www.britain-magazine.com/special-post/quotes/alfred-tennyson/](http://www.britain-magazine.com/special-post/quotes/alfred-tennyson/), which only provides a single quote and no other content

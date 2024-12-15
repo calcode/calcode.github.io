@@ -3,9 +3,9 @@ layout: post
 title: Turing Festival 2013 Review
 permalink: turing-festival-2013/
 ---
-I was fortunate enough to attend the [Turing Festival](http://turingfestival.com/)  in Edinburgh on the 24th and 25th of August, 2013. The festival took place over two days, towards the tail end of the [Edinburgh Festival](http://www.edinburghfestivals.co.uk/), meaning the city was still buzzing with energy. The talks were diverse and captivating, with many speakers using technology as a foundation, rather than the subject itself. This approach made the festival feel more dynamic, engaging, and thought-provoking than your typical event.
+I was fortunate enough to attend the [Turing Festival](http://turingfestival.com/) in Edinburgh on the 24th and 25th of August, 2013. The festival took place over two days, towards the tail end of the [Edinburgh Festival](http://www.edinburghfestivals.co.uk/), meaning the city was still buzzing with energy. The talks were diverse and captivating, with many speakers using technology as a foundation, rather than the subject itself. This approach made the festival feel more dynamic, engaging, and thought-provoking than your typical event.
 
-## What talks did I attend? 
+## What talks did I attend?
 
 Five Startups Go Mad in Edinburgh
 Future of Money
@@ -14,7 +14,7 @@ Digital Marketing & Growth Hacking
 Festival Keynote by Neal Stephenson
 Future of Music
 
-##Future of money highlights
+## Future of money highlights
 
 - [Sandra Alzetta](http://www.iabuk.net/people/sandra-alzetta) from Visa delivered a grounded speech focusing on mobile payments via smartphones and contactless plastic cards. She emphasized that the future of payments is both mobile and plastic, with each playing an essential role in Visa’s vision
 - [Mike Hearn](http://plan99.net/~mike/#top) from Bitcoin (and previously Google) gave a fascinating talk that was one of the highlights of the festival. His presentation was wide-ranging, discussing everything from Google’s driverless cars to the future of work. He painted a picture of a future dominated by autonomous agents in a TradeNet system, where machines run their own businesses, competing for human business. He also touched on Bitcoin but this was overshadowed by the broader, thought-provoking concepts he introduced
@@ -25,12 +25,12 @@ Future of Music
 
 > Visa Europe forecast 50% of their transactions by 2020 will be mobile #turingfest — [Calum Shepherd (@calumshepherd)](https://twitter.com/calumshepherd/statuses/370903909248028672) - August 23, 2013
 
-##Digital distribution highlights
+## Digital distribution highlights
 The standout session in digital distribution came from [DJ Powers from Valve](http://www.linkedin.com/pub/dj-powers/67/70/495). He gave insight into the Steam eco-system and their recent developments in community contribution. [Team Fortress 2](http://www.teamfortress.com/">Team Fortress 2) is one of their most recent success stories, seeing a marketplace built out around digital products and official community updates - launched for the entire player base. A success story included a hat seller (for in-game characters) who achieved 6 digit profits for his creations.
 
 > Team Fortress Community Update biggest grossing hour for them after launch. Awesome #turingfest — [Calum Shepherd (@calumshepherd)](https://twitter.com/calumshepherd/statuses/370945261469986816) - August 23, 2013
 
-##Digital marketing and growth hacking
+## Digital marketing and growth hacking
 
 - [Brian Doll from GitHub](http://emphaticsolutions.com/) kicked off this session, reinforcing the need for great marketing based on a simple philosophy:
 > "Build Something, Tell People"

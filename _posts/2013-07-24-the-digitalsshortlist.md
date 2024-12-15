@@ -9,10 +9,10 @@ Our campaign, which revolved around Shetland ponies in cardigans, was a collabor
 
 The Shetland ponies were a fresh, creative idea and a perfect example of cross-team collaboration.
 
-Here’s the US TV spot from CNN
+Here’s the US TV spot from CNN:
 
-<iframe src="http://www.youtube.com/embed/PfaRtzDNePc" height="315" width="560" allowfullscreen="" frameborder="0"></iframe>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/PfaRtzDNePc/0.jpg)](http://www.youtube.com/watch?v=PfaRtzDNePc "How to get a pony into a sweater")
 
-Although we didn’t win that night, it was still a fantastic outcome for the team and the company. 
+Although we didn’t win that night, it was still a fantastic outcome for the team and the company.
 
 You can check out the original [Shetland ponies blog post](http://www.visitscotland.com/blog/scotland/shetland-ponies-in-cardigans/) over at the VisitScotland blog.

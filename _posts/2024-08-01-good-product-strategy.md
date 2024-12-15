@@ -4,7 +4,7 @@ title: Qualities of Good Product Strategy
 permalink: good-product-strategy
 ---
 
-I set out to answer the question: *What are the qualities of a good product strategy?*
+I set out to answer the question 'what are the qualities of a good product strategy?'
 
 We all aim to create strategies that are well understood, enabling colleagues to feel comfortable socialising them. But how exactly do we achieve that?
 

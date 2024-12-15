@@ -20,7 +20,7 @@ Our mission to create a central point of access is deeply rooted in user researc
 
 - **Embrace Multigenerational Organisations**  
   Understand their benefits, explore tensions, and focus on building bridges. Diverse teams bring valuable perspectives.
-  
+
 - **Tailor Principles to Fit Your Team**  
   Agile practices and principles aren’t one-size-fits-all. Adapt them to suit your team’s needs and environment.
 

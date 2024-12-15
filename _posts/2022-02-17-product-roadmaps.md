@@ -4,7 +4,7 @@ title: Product Roadmaps @ LandTech
 permalink: product-roadmaps
 ---
 
-I wanted to share some thoughts on how our product management team has approached one of the most divisive topics in the product community: product roadmaps.
+I wanted to share some thoughts on how our product management team has approached one of the most divisive topics in the product community - product roadmaps.
 
 
 ## What was the aim?
@@ -44,7 +44,7 @@ We assumed that changing too much at once could create confusion. When solving m
 
 We introduced several key changes to make the roadmap clearer and more actionable:
 
-- **Organized by "Now / Next / Later"** to show when work will begin.  
+- **Organised by "Now / Next / Later"** to show when work will begin.  
 - **Clearer titles** focused on the value to customers.  
 - **Alignment with objectives** for better consistency with company goals.  
 - **Consistent descriptions** across all items.  
@@ -58,7 +58,7 @@ We introduced several key changes to make the roadmap clearer and more actionabl
 [![13PrMX.md.png](https://iili.io/13PrMX.md.png)](https://freeimage.host/i/13PrMX)
 
 
-## What about a public roadmap? 
+## What about a public roadmap?
 
 For now, our product roadmap remains internal, as the detailed information isn't particularly useful for our customers.  
 

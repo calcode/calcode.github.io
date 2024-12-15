@@ -10,8 +10,6 @@ However, I wasn’t quite prepared for one of the presentations—and it seems m
 
 Emotionally, it was a rollercoaster.
 
-![](/content/images/2017/10/haiyan-canvas-conference.png)
-
 [Haiyan Zhang](https://www.linkedin.com/in/haiyanzhang/), an Innovation Director at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), shared her work on leveraging technology to improve and enrich lives, particularly for individuals whose daily lives are affected by medical conditions.
 
 Haiyan discussed several projects, including a new platform for participants and the critical need to ensure solutions are financially viable in the long term.
