@@ -6,9 +6,9 @@ permalink: wordpress-jekyll/
 
 Goodbye [WordPress](http://www.wordpress.org/). It's been great working with you! Hello, [Jekyll](http://jekyllrb.com). Jekyll is a static site generator and an open-source tool for creating simple yet powerful websites of all shapes and sizes. To quote [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub
 
-[GitHub](https://github.com/) you say? Sounds good to me. 
+[GitHub](https://github.com/) you say? Sounds good to me.
 
 We're now up and running on GitHub, with Poole as our chosen template for Jekyll.
 

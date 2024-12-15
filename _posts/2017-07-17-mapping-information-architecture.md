@@ -20,18 +20,16 @@ With MindNode, you can easily add nodes as new information or topics emerge from
 
 Here are some tips for creating effective IA diagrams with MindNode:
 
-- **Line Colours**: Use different colours to separate topics or highlight different audiences.
-- **Line Weightings**: Adjust line thickness to indicate the volume or complexity of the information.
-- **Arrows**: Use arrows to show relationships between nodes or highlight critical cross-linking.
-- **Node Types**: Represent the type of content (e.g., video, image, text) with specific node styles.
-- **Notes**: Add explanations to indicate where the information came from, such as user research findings.
+- Line Colours. Use different colours to separate topics or highlight different audiences.
+- Line Weightings. Adjust line thickness to indicate the volume or complexity of the information.
+- Arrows. Use arrows to show relationships between nodes or highlight critical cross-linking.
+- Node Types. Represent the type of content (e.g., video, image, text) with specific node styles.
+- Notes. Add explanations to indicate where the information came from, such as user research findings.
 
 You can also create a couple of main nodes to act as a legend, providing a clear reference for others viewing the diagram.
 
 MindNode is flexible enough to accommodate changes. If you need to move or reorganise elements, the nodes will dynamically adjust and resize. It’s intentionally vague enough to avoid being mistaken for a final deliverable, while still being clear and collaborative.
 
 For more on information architecture, check out [The Ultimate Guide to Information Architecture](https://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/) on Web Designer Depot.
-
-![](/content/images/2017/07/website-information-architecture.png)
 
 Give it a try and let me know how you get on!

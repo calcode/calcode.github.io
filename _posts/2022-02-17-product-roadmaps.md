@@ -53,7 +53,7 @@ We introduced several key changes to make the roadmap clearer and more actionabl
 - **Consistent granularity** between items to improve readability.  
 - **Links to opportunity assessments** for evaluating the value of ideas.  
 
-### Example internal roadmap:
+### Example internal roadmap
 
 [![13PrMX.md.png](https://iili.io/13PrMX.md.png)](https://freeimage.host/i/13PrMX)
 
