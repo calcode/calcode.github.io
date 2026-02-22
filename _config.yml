@@ -23,7 +23,7 @@ github:
 # Menu
 pages_list:
   speaking: '/speaking'
-  consultancy: '/consultancy'
+  about: '/about'
   posts: '/posts'
 # Sitemaps
 gems:
