@@ -26,5 +26,6 @@ pages_list:
   about: '/about'
   posts: '/posts'
 # Sitemaps
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-paginate
