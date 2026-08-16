@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Digitals 2013 Award Runner Up
+title: Digitals 2013 award runner up
 permalink: the-digitals-shortlist/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading Suggestions for 2021
+title: Reading suggestions for 2021
 permalink: reading-suggestions-2021/
 redirect_from: /reading-suggestions-2021
 ---

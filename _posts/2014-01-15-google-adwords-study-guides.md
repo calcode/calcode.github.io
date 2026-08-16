@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Google Ads Study Guides
+title: Google Ads study guides
 permalink: google-ads-study-guides/
 ---
 

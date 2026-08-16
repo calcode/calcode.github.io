@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's Next in Digital Talk
+title: What's next in digital talk
 permalink: putting-users-at-the-heart-digital-strategy/
 ---
 

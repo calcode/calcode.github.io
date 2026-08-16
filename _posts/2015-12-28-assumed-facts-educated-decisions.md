@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assumed Facts and Educated Decisions
+title: Assumed facts and educated decisions
 permalink: assumed-facts-educated-decisions/
 ---
 

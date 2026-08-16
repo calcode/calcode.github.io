@@ -473,6 +473,15 @@ a.pagination-item:hover {
   vertical-align: middle;
 }
 
+/* Match in-post section headings to the site's 20px heading size */
+.post h2 {
+  font-size: 1.25rem;
+}
+
+.footer {
+  font-size: .75rem;
+}
+
 
 /*
  * Post list

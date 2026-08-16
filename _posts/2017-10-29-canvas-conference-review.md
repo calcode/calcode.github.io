@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Canvas Conference 2017 Review
+title: Canvas Conference 2017 review
 permalink: canvas-conference-review/
 redirect_from: /canvas-conference-review
 ---

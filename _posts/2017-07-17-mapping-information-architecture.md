@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mapping Information Architecture
+title: Mapping information architecture
 permalink: mapping-information-architecture/
 redirect_from: /mapping-information-architecture
 ---

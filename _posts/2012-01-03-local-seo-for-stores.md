@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Local SEO for Stores
+title: Local SEO for stores
 permalink: local-seo-for-stores/
 ---
 

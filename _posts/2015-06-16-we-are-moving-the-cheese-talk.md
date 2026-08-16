@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Are Moving The Cheese Talk
+title: We are moving the cheese talk
 permalink: we-are-moving-the-cheese-talk/
 ---
 

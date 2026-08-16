@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Five Adages and How to Apply Them as a Product Manager
+title: Five adages and how to apply them as a product manager
 permalink: five-adages-product-manager/
 redirect_from: /five-adages-product-manager
 ---

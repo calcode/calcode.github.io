@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Turing Festival 2013 Review
+title: Turing Festival 2013 review
 permalink: turing-festival-2013/
 ---
 

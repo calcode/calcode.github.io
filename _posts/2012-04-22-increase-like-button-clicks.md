@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Increase Like Button Clicks
+title: Increase like button clicks
 permalink: increase-like-button-clicks/
 ---
 
