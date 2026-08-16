@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Canvas Conference 2017 Review
-permalink: canvas-conference-review
+permalink: canvas-conference-review/
+redirect_from: /canvas-conference-review
 ---
 
 Last week I attended [Canvas Conference](http://canvasconference.co.uk/) in Birmingham, a conference for product enthusiasts packed with great stories from people working in the space. This year's speakers came from companies including [Thriva](https://thriva.co/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Starling Bank](https://www.starlingbank.com/), and [Monzo](https://monzo.com/).

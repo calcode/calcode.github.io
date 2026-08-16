@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Five Adages and How to Apply Them as a Product Manager
-permalink: five-adages-product-manager
+permalink: five-adages-product-manager/
+redirect_from: /five-adages-product-manager
 ---
 
 I recently came across these adages while browsing the web, and they resonated instantly - not least because one of them comes from my favourite film of all time.

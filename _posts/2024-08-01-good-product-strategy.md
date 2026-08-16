@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Qualities of Good Product Strategy
-permalink: good-product-strategy
+permalink: good-product-strategy/
+redirect_from: /good-product-strategy
 ---
 
 I set out to answer a simple question: what actually makes a good product strategy?

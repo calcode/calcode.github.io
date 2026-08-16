@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Product Roadmaps @ LandTech
-permalink: product-roadmaps
+permalink: product-roadmaps/
+redirect_from: /product-roadmaps
 ---
 
 Some thoughts on how our product team tackled one of the most divisive topics in the product community: roadmaps.

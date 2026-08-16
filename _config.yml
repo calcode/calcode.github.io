@@ -21,5 +21,6 @@ github:
   repo:           https://github.com/poole/poole
 
 # Sitemaps
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from

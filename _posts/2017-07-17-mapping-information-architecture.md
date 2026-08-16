@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Mapping Information Architecture
-permalink: mapping-information-architecture
+permalink: mapping-information-architecture/
+redirect_from: /mapping-information-architecture
 ---
 
 Time to break the blogging drought with a hands-on post.

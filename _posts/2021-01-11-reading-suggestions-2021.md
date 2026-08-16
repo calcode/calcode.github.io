@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Reading Suggestions for 2021
-permalink: reading-suggestions-2021
+permalink: reading-suggestions-2021/
+redirect_from: /reading-suggestions-2021
 ---
 
 I tend to take notes from books, or simply highlight passages as I go. I read whenever I can, but I've never made a conscious effort to read *regularly* - which works fine until life gets busy, at which point learning is usually the first thing to slip.

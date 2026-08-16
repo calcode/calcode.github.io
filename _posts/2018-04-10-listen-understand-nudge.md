@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Listen, Understand and Nudge
-permalink: listen-understand-nudge
+permalink: listen-understand-nudge/
+redirect_from: /listen-understand-nudge
 ---
 
 Joining a product team that's already been through discovery and alpha can be tricky. It's a team that's bonded through tough times and come together to solve real problems for their users.
