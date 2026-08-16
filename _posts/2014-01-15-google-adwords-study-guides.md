@@ -21,21 +21,21 @@ You can pass the exams without any physical guides or paid revision packages. Bu
 
 In short, revision has become far cleaner and more streamlined since the Partners launch, and hunting for third-party study guides matters much less than it used to.
 
-## 1. Official Google Study Guides
+## 1. Official Google study guides
 
 The Google Partners area is the best place to start - seminars, study guides, and everything you need to kick off your certification.
 
 - Visit the [Google Partners help area](https://support.google.com/partners/topic/3204437?hl=en-GB&ref_topic=3111012)
-- Download the [Google Adwords Fundamentals study guide (PDF)](https://support.google.com/partners/answer/3045820?hl=en-GB)
-- Download the [Google Adwords Search Advanced study guide (PDF)](https://support.google.com/partners/answer/3045822?hl=en-GB)
+- Download the [Google Adwords Fundamentals study guide (PDF) (dead-link)](https://support.google.com/partners/answer/3045820?hl=en-GB)
+- Download the [Google Adwords Search Advanced study guide (PDF) (dead-link)](https://support.google.com/partners/answer/3045822?hl=en-GB)
 
-## 2. Google Adwords Help Centre
+## 2. Google Adwords help centre
 
 A good reference for terminology and a thorough walkthrough from basic setup to billing - better suited for reference than direct exam study.
 
 - Visit the [Google Adwords Help Centre](http://support.google.com/adwords/)
 
-## 3. Google Adwords Interface
+## 3. Google Adwords interface
 
 Hands-on experience is still the best preparation. You'll need a valid Google account with a name, address, and card details (don't worry - you can remove the card after setup).
 
@@ -44,7 +44,7 @@ The real value comes from setting budgets and actually launching campaigns. Goog
 - Visit the [Google Adwords Coupon website](http://www.google.co.uk/adwords/coupons/)
 - Visit the [Google Adwords website](http://adwords.google.co.uk)
 
-## 4. Google YouTube Adwords Playlist
+## 4. Google YouTube Adwords playlist
 
 Google's YouTube channel has a wide range of videos covering Google Ads - a good place for a comprehensive overview.
 

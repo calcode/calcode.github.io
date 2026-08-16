@@ -4,7 +4,7 @@ title: Turing Festival 2013 Review
 permalink: turing-festival-2013/
 ---
 
-I was lucky enough to attend the [Turing Festival](http://turingfestival.com/) in Edinburgh on 24–25 August 2013, right at the tail end of the [Edinburgh Festival](http://www.edinburghfestivals.co.uk/) - so the city was still buzzing. The talks were diverse and genuinely engaging, with speakers using technology as a foundation rather than the whole subject, which made the event feel far more dynamic than your typical conference.
+I was lucky enough to attend the [Turing Festival](http://turingfestival.com/) in Edinburgh on 24–25 August 2013, right at the tail end of the [Edinburgh Festival (dead-link)](http://www.edinburghfestivals.co.uk/) - so the city was still buzzing. The talks were diverse and genuinely engaging, with speakers using technology as a foundation rather than the whole subject, which made the event feel far more dynamic than your typical conference.
 
 ## What talks did I attend?
 

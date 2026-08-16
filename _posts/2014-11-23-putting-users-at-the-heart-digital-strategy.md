@@ -23,4 +23,4 @@ Plenty of valuable insight across the board, and no shortage of thought-provokin
 
 ## Want to know more?
 
-There's a full write-up of all the talks, including mine, on the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015). Worth a read if digital transformation is your thing.
+There's a full write-up of all the talks, including mine, on the [Eden Scott blog (dead-link)](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015). Worth a read if digital transformation is your thing.

@@ -14,7 +14,7 @@ This year I'm committing to reading one book a month. It's not a huge target, bu
 - **[Michael J. Fox – *No Time Like the Future*](https://www.waterstones.com/book/no-time-like-the-future/michael-j-fox/9781472278463)**
 I've read Fox's other books and his optimism always shines through. After a couple of setbacks, I'm curious to see how his perspective has evolved. Expecting an emotive, insightful read.
 
-- **[Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams](https://www.amazon.co.uk/Mapping-Experiences-Complete-Creating-Blueprints-ebook/dp/B01F9Y6B9K)**
+- **[Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams (dead-link)](https://www.amazon.co.uk/Mapping-Experiences-Complete-Creating-Blueprints-ebook/dp/B01F9Y6B9K)**
 Miscommunication about mapping techniques is common in teams - an experience map showing how customers interact with your business is a different thing from a story map, and the distinction gets lost. Hoping this sharpens my skills and helps me pick the right tool at the right time.
 
 - **[Agile Product Management with Scrum](https://www.amazon.co.uk/Agile-Product-Management-Scrum-Addison-Wesley-ebook/dp/B003BW0C9I/ref=sr_1_1?dchild=1&keywords=Agile+Product+Management+with+Scrum&qid=1610391190&s=digital-text&sr=1-1)**

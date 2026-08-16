@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Posts
+title: Articles
 description: Writing from Calum Shepherd on product management, product strategy, and building with data and AI.
 ---
 
+<div class="post-list">
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+  <p class="post-list-item">{{ post.date | date: "%Y" }} - <a href="{{ post.url }}">{{ post.title }}</a></p>
 {% endfor %}
+</div>

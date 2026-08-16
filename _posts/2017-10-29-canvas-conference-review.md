@@ -5,7 +5,7 @@ permalink: canvas-conference-review/
 redirect_from: /canvas-conference-review
 ---
 
-Last week I attended [Canvas Conference](http://canvasconference.co.uk/) in Birmingham, a conference for product enthusiasts packed with great stories from people working in the space. This year's speakers came from companies including [Thriva](https://thriva.co/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Starling Bank](https://www.starlingbank.com/), and [Monzo](https://monzo.com/).
+Last week I attended [Canvas Conference (dead-link)](http://canvasconference.co.uk/) in Birmingham, a conference for product enthusiasts packed with great stories from people working in the space. This year's speakers came from companies including [Thriva](https://thriva.co/), [Microsoft Research](https://www.microsoft.com/en-us/research/), [Starling Bank](https://www.starlingbank.com/), and [Monzo](https://monzo.com/).
 
 One presentation in particular caught me off guard - and it seemed I wasn't alone. Emotionally, it was a rollercoaster.
 
@@ -13,7 +13,7 @@ One presentation in particular caught me off guard - and it seemed I wasn't alon
 
 She talked through several projects, including a new platform for participants, and the critical need to make sure solutions are financially viable in the long run.
 
-> [Parkinson's disease](https://www.nhs.uk/conditions/Parkinsons-disease/Pages/Introduction.aspx) affects 10 million people worldwide, causing a loss of motor control. There is currently no cure.
+> [Parkinson's disease (dead-link)](https://www.nhs.uk/conditions/Parkinsons-disease/Pages/Introduction.aspx) affects 10 million people worldwide, causing a loss of motor control. There is currently no cure.
 
 I know first-hand how devastating this disease can be - it's been close to me since childhood, and it has a way of stripping away the things you cherish most.
 

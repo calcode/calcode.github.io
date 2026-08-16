@@ -14,6 +14,6 @@ Jekyll is a static site generator: an open-source tool for building simple but p
 
 We're now up and running on GitHub, using Poole as our chosen Jekyll template.
 
-Migrating from WordPress is genuinely painless with the right tools. If you're technical, [Leon Paternoster's post](http://www.leonpaternoster.com/2013/06/moving-from-wordpress-to-jekyll/) is a great step-by-step guide.
+Migrating from WordPress is genuinely painless with the right tools. If you're technical, [Leon Paternoster's post (dead-link)](http://www.leonpaternoster.com/2013/06/moving-from-wordpress-to-jekyll/) is a great step-by-step guide.
 
 If coding isn't your thing, there's a handy Windows app that does the job quickly: [wpXml2Jekyll](https://github.com/theaob/wpXml2Jekyll), available on GitHub.

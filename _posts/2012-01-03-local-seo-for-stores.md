@@ -4,7 +4,7 @@ title: Local SEO for Stores
 permalink: local-seo-for-stores/
 ---
 
-*(This post originally appeared in December 2011 as part of an SEO Advent Calendar series. It's been updated and reposted here for greater reach - the original is on the [LBi blog](http://blog.bigmouthmedia.com/2011/12/06/no-6-%E2%80%93-seo-advent-calendar/).)*
+*(This post originally appeared in December 2011 as part of an SEO Advent Calendar series. It's been updated and reposted here for greater reach - the original is on the [LBi blog (dead-link)](http://blog.bigmouthmedia.com/2011/12/06/no-6-%E2%80%93-seo-advent-calendar/).)*
 
 "Location, Location, Location" was once a popular Channel 4 show - and it's also the perfect summary of why local SEO matters so much for physical store locations.
 
