@@ -7,12 +7,7 @@
       <div class="masthead">
          <h3 class="masthead-title">
            <a href="../" title="Home">{{ site.title }}</a>
-             <!--addition of menu at top of page-->
-             {% for page in site.pages_list %}
-                 &nbsp;&nbsp;&nbsp;
-                 <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-                 {% endfor %}
-                 <!--site tagline-->
+             <!--site tagline-->
              <p><small>{{ site.tagline }}</small></p>
          </h3>
       </div>
@@ -20,13 +15,6 @@
       {{ content }}
 
       <div class="footer">
-        <p>
-        You can also find me on 
-        <a href="https://x.com/calumshepherd">X</a> |
-        <a href="https://bsky.app/profile/calumshepherd.bsky.social">Bluesky</a> |
-        <a href="https://www.linkedin.com/in/calumshepherd/">LinkedIn</a> |
-        <a href="https://github.com/calcode">Github</a>
-        </p>
         <p>
          Built with <a href="https://github.com">GitHub</a>, <a href="http://jekyllrb.com/Jekyll">Jekyll</a>, <a href="http://getpoole.com/">Poole</a>.
          Scribbles &copy; {{ site.time | date: '%Y' }}

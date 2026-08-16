@@ -3,34 +3,46 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="section">
+  <span class="eyebrow">What I Do</span>
 
-    <span class="post-date">{{ post.date | date_to_string }}, by <a href="https://x.com/calumshepherd">Calum Shepherd</a></span>
-    {{ post.content }}
+  <div class="offering">
+    <h3><span class="marker"></span>Bring product to life</h3>
+    <p>I partner with teams and customers to build products people love, not just products that work. I care about the experience and the outcome, and I'm increasingly excited by what the AI era now makes possible for customers.</p>
   </div>
-  {% endfor %}
+
+  <div class="offering">
+    <h3><span class="marker"></span>Turning unstructured data into decisions</h3>
+    <p>Whole industries still depend on slow, manual research and curation to produce the documents that decisions rest on. AI is changing that equation, freeing specialists from administration so they can spend their time deciding, not compiling.</p>
+  </div>
+
+  <div class="offering">
+    <h3><span class="marker"></span>Rebuilding experiences around real usage</h3>
+    <p>I've led multiple redesigns grounded in usage data and direct user research rather than opinion. One saw a new offer giving legal professionals direct access to property ownership data.</p>
+  </div>
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}/">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}/">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<div class="section">
+  <span class="eyebrow">Speaking</span>
+  <p>Invited to speak at EuroGeographics in Prague, with further talks at Lean Agile Scotland and Lean Agile Glasgow.</p>
+</div>
+
+<div class="section">
+  <span class="eyebrow">Spare time</span>
+  <p>Outside of work, I'm a serial short-course taker. I'm drawn to anything about human interaction - it's the same skill that makes conversations with customers land, and that helps me really understand what they need.</p>
+</div>
+
+<div class="section">
+  <span class="eyebrow">Get in Touch</span>
+  <p>
+    <a href="https://x.com/calumshepherd">X</a> &middot;
+    <a href="https://bsky.app/profile/calumshepherd.bsky.social">Bluesky</a> &middot;
+    <a href="https://www.linkedin.com/in/calumshepherd/">LinkedIn</a> &middot;
+    <a href="https://github.com/calcode">Github</a>
+  </p>
+</div>
+
+<div class="section">
+  <span class="eyebrow">Writing</span>
+  <p>Posts and articles live on the <a href="{{ site.baseurl }}posts/">blog page</a>.</p>
 </div>
