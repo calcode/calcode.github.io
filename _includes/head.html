@@ -5,18 +5,41 @@
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
 
-  <!-- meta descriptions from YAML -->
-  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
-  <meta name="description" content="Calum Shepherd, an experienced Product Lead & IC building data driven products">
+  {% if page.title == "Home" %}
+    {% assign page_title = site.title | append: " &middot; " | append: site.tagline %}
+  {% else %}
+    {% assign page_title = page.title | append: " &middot; " | append: site.title %}
+  {% endif %}
 
+  {% if page.description %}
+    {% assign page_description = page.description %}
+  {% elsif page.excerpt and page.excerpt != empty %}
+    {% assign page_description = page.excerpt | strip_html | strip_newlines | truncate: 155 %}
+  {% else %}
+    {% assign page_description = site.description %}
+  {% endif %}
+
+  {% assign page_url = site.url | append: page.url %}
+
+  <title>{{ page_title }}</title>
+  <link rel="canonical" href="{{ page_url }}">
+
+  <!-- meta description: page-specific, falling back to a post's excerpt, then the site default -->
+  <meta name="description" content="{{ page_description }}">
+
+  <!-- Open Graph / social sharing -->
+  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ page_description }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}public/open-graph-image-cs.png">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@calumshepherd">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}public/open-graph-image-cs.png">
 
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
@@ -25,9 +48,6 @@
   <!-- Icons -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}public/apple-touch-icon-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}public/favicon.ico">
-  <meta property="og:image" content="{{ site.baseurl }}public/open-graph-image-cs.png">
-  
-
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ site.baseurl }}atom.xml">

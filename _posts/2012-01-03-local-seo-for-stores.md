@@ -3,46 +3,50 @@ layout: post
 title: Local SEO for Stores
 permalink: local-seo-for-stores/
 ---
-(This post was originally published in December 2011 as part of an SEO Advent Calendar series. It has since been updated and reposted here for greater reach. To view the original post, visit the [LBi blog](http://blog.bigmouthmedia.com/2011/12/06/no-6-%E2%80%93-seo-advent-calendar/).
 
-‘Location, Location, Location’ was once a popular show on Channel 4, and now it’s the perfect description for the importance of local SEO for physical store locations.
+*(This post originally appeared in December 2011 as part of an SEO Advent Calendar series. It's been updated and reposted here for greater reach - the original is on the [LBi blog](http://blog.bigmouthmedia.com/2011/12/06/no-6-%E2%80%93-seo-advent-calendar/).)*
 
-Local stores often struggle with low online visibility, which can be overlooked by digital marketing managers. This is especially important for online/offline hybrid retailers who operate brick-and-mortar stores. Retail stores typically offer a smaller range of products compared to their online counterparts, which means the web serves as a "best of breed" solution for the retailer’s entire portfolio.
+"Location, Location, Location" was once a popular Channel 4 show - and it's also the perfect summary of why local SEO matters so much for physical store locations.
 
-When approaching local SEO for stores, it’s crucial to think about the location first, followed by the services or products that the location offers. Loyal customers may visit your store if they have time-sensitive needs or simply prefer shopping in person. However, if information about your store is not available online, customers may struggle to find it, show up when it's closed, or even go elsewhere.
+Local stores often have poor online visibility, something digital marketing managers can easily overlook. This matters especially for online/offline hybrid retailers running brick-and-mortar stores alongside a website: physical stores typically stock a smaller range than the website, so the site becomes the "best of breed" view of the retailer's full portfolio.
 
-## On site promotion
-Shopping last-minute is a common occurrence, especially during the Christmas season. People often search for details about local stores online in several situations:
+When approaching local SEO for stores, think location first, then the services or products on offer there. Loyal customers may head to a physical store for time-sensitive needs, or simply because they prefer shopping in person - but if that store's information isn't online, they may not find it, may show up when it's closed, or may just go elsewhere.
 
-- The standard delivery window for mail order has expired
-- They discover that only expensive ‘next day delivery’ options are available.
-- Risk of weather related delivery delays.
+## On-site promotion
 
-Identifying the customer journey from online to offline is essential for generating revenue. Ensure that your store locations and how to find them are easily visible on your site.
+Last-minute shopping is common, especially around Christmas. People search for local store details online in situations like:
+
+- The standard mail-order delivery window has passed
+- Only expensive next-day delivery remains
+- There's a risk of weather-related delivery delays
+
+Mapping the customer journey from online to offline matters for revenue. Make sure store locations, and how to find them, are easy to spot on your site:
 
 - Promote from the homepage
-- Provide within your standard navigation, be it a footer or sub-navigation
+- Include them in standard navigation - footer or sub-navigation
 
 ## Individual store pages
-Each store should have its own dedicated page with up-to-date information. This allows for quick updates as changes occur.
 
-- Make sure all individual store pages provide accurate, current information
-If stores are independently operated or franchised with separate social profiles, consider integrating their social feeds or real-time updates
-- Customer reviews specific to each location are common online—consider including them.
-- Use easy-to-remember URLs for individual store pages
-- To take it further, promote each store's landing page from within the store itself. This can help create customer loyalty that many online retailers can’t match
+Every store deserves its own dedicated, up-to-date page, so changes can be made quickly:
 
-## 3rd party location platforms
-Offsite promotion is also crucial. Location-based platforms like Google+ Local, Here Places (Nokia), Bing Places, and Yelp can significantly increase traffic to your location pages.
+- Keep each store page accurate and current
+- If stores are independently operated or franchised with their own social profiles, consider integrating their social feeds or real-time updates
+- Location-specific customer reviews are common online - worth including
+- Use memorable, easy URLs for individual store pages
+- Go further by promoting each store's landing page *in-store* - a form of loyalty most online-only retailers can't match
 
-- Stay organised and maintain a list of all your locations
-- Claim existing listings on third-party platforms and close or amend outdated entries
-- Continuously build new listings and update information as needed
-- Use link tracking to measure the impact and prove that it works
-- Maintaining accurate profiles and information on third-party websites ensures customers won’t end up at stores that have moved or no longer exist. These third-party profiles should be closely integrated with the store pages on your website
+## Third-party location platforms
+
+Off-site promotion matters just as much. Location platforms like Google+ Local, Here Places (Nokia), Bing Places, and Yelp can meaningfully boost traffic to your location pages:
+
+- Keep an organised list of all your locations
+- Claim existing listings and close or correct outdated ones
+- Keep building new listings and updating information as things change
+- Use link tracking to measure impact and prove it's working
+- Keep third-party profiles closely aligned with your own store pages, so customers never turn up at a store that's moved or closed
 
 ## In summary
 
-Get ready for Christmas by updating your store pages to accurately reflect their offerings. Promote these pages on your site to make them a viable option for customers. Finally, ensure all your third-party profiles are up-to-date. Not every suggestion in this post may apply, but implementing even a few of these ideas can lead to great results!
+Get store pages Christmas-ready by making sure they accurately reflect what's on offer, promote them properly on your own site, and keep third-party profiles current. Not every suggestion here will apply to every retailer, but even a handful can move the needle.
 
 Merry Christmas!

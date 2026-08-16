@@ -4,30 +4,23 @@ title: What's Next in Digital Talk
 permalink: putting-users-at-the-heart-digital-strategy/
 ---
 
-I was delighted to be invited by [DigitasLBi](http://www.digitaslbi.com/global/) to speak at their event, *"What's Next in Digital"*  
+I was delighted to be invited by [DigitasLBi](http://www.digitaslbi.com/global/) to speak at their event, *"What's Next in Digital."*
 
-With just three busy weeks to prepare, I reflected on what might provide the most value to others. My focus landed on our early approach to ensuring that **users are front and centre** when creating information about public services.
+With just three busy weeks to prepare, I thought hard about what would give the audience the most value. I landed on our early approach to putting **users front and centre** when creating information about public services.
 
-> **Putting users at the heart of your digital strategy**  
-> A reflection on our early efforts and lessons learned.
+> **Putting users at the heart of your digital strategy** - a reflection on our early efforts and the lessons we learned along the way.
 
+## A chance to learn from other experts
 
-## A Chance to Learn From Other Experts
+The event also gave me a great opportunity to hear from other industry speakers, covering:
 
-The event also gave me the perfect opportunity to listen to fascinating talks from industry leaders. The topics covered included:
+- **Emerging Digital Trends** - John Monks, Head of Digital Business Design, DigitasLBi
+- **Organisational Transformation and Change** - Mary Harper, Head of Customer and Digital Marketing, Standard Life
+- **Innovation in Media** - David Milne, Head of Digital Publishing, STV
+- **Tips on Optimising App Store Games to Increase Downloads** - Colin Macdonald, Commissioning Editor for Games, Channel 4
 
-- **Emerging Digital Trends**  
-  *By John Monks, Head of Digital Business Design, DigitasLBi*  
-- **Organisational Transformation and Change**  
-  *By Mary Harper, Head of Customer and Digital Marketing, Standard Life*  
-- **Innovation in Media**  
-  *By David Milne, Head of Digital Publishing, STV*  
-- **Tips on Optimising App Store Games to Increase Downloads**  
-  *By Colin Macdonald, Commissioning Editor for Games, Channel 4*
+Plenty of valuable insight across the board, and no shortage of thought-provoking discussion afterwards.
 
-These presentations offered valuable insights across a variety of fields and sparked plenty of thought-provoking discussions.
+## Want to know more?
 
-
-## Want to know more?  
-
-There’s a comprehensive summary of all the talks, including mine, on the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015). It’s well worth a read if you’re interested in digital transformation and innovation.
+There's a full write-up of all the talks, including mine, on the [Eden Scott blog](http://www.edenscott.com/blog/what%E2%80%99s-in-store-for-digital-in-2015). Worth a read if digital transformation is your thing.

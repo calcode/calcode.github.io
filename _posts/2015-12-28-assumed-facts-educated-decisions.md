@@ -4,48 +4,46 @@ title: Assumed Facts and Educated Decisions
 permalink: assumed-facts-educated-decisions/
 ---
 
-I love the [definition of data provided by Google](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=data%20definition):  
+I love [Google's definition of data](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=data%20definition):
 
-> Data, in philosophy, is “things known or assumed as facts, making the basis of reasoning or calculation”
+> Data, in philosophy, is "things known or assumed as facts, making the basis of reasoning or calculation."
 
-There’s something inherently beautiful about this definition. It establishes a relationship between assumed facts and their role in reasoning—ultimately enabling us to make educated decisions.
+There's something genuinely elegant about that definition. It ties assumed facts directly to reasoning - and reasoning is what ultimately lets us make educated decisions.
 
-[Reasoning](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=reasoning+definition), in turn, is defined as:  
+[Reasoning](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=reasoning+definition), in turn, is defined as:
 
-> “The action of thinking about something in a logical, sensible way”
+> "The action of thinking about something in a logical, sensible way."
 
-We know that data is fundamental to effective [user-centered design](https://en.wikipedia.org/wiki/User-centered_design). However, using the wrong data can sometimes be worse than having no data at all. Incorrect data can support flawed decisions and remain unnoticed for a long time. When we rely on flawed data to create solutions, we risk falling into a cycle of uneducated change, which is the exact opposite of what we aim to achieve through true iteration.
+We already know data is fundamental to good [user-centred design](https://en.wikipedia.org/wiki/User-centered_design). But using the *wrong* data can be worse than using none at all - bad data quietly supports flawed decisions, often for a long time before anyone notices. Build on flawed data long enough and you end up in a cycle of uneducated change: the exact opposite of true iteration.
 
-> [Change](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=definition%20of%20change):  
-> "An act or process through which something becomes different"
+> [Change](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=definition%20of%20change): "An act or process through which something becomes different."
 
-Whereas:  
+Whereas:
 
-> [Iteration](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=iteration+definition):  
-> "The repetition of a process or utterance as a means of obtaining successively closer approximations to achieve a solution"
+> [Iteration](https://www.google.co.uk/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=iteration+definition): "The repetition of a process or utterance as a means of obtaining successively closer approximations to achieve a solution."
 
-To truly improve, we need to iterate. And iteration only works when we use the right data at the right time. Our methods should provide data that fuels reasoning and informs decision-making—not lead us astray.  
+To genuinely improve, we need to iterate - and iteration only works when we're using the right data at the right time. Our methods should feed reasoning and decision-making, not lead us astray.
 
-## The Importance of Context in Data
+## The importance of context in data
 
-Understanding and predicting user behaviour is challenging even in the best of circumstances. This is why it's crucial to understand the available methods, what they provide, and how to converge data meaningfully.  
+Predicting user behaviour is hard even in the best circumstances, which is exactly why understanding your available methods - what they give you, and how to combine them meaningfully - matters so much.
 
-For example, pulling numbers from Google Analytics is meaningless without context. Context might come from additional sources, such as user interviews, or even understanding whether filters have been applied to the data. Beyond knowing *what* users are doing, context helps us uncover *why* they are doing it.
+Pulling numbers out of Google Analytics, for instance, is close to meaningless without context. That context might come from user interviews, or simply from knowing whether filters have been applied to the data. Beyond *what* users are doing, context is what tells you *why*.
 
-## Getting the Basics Right
+## Getting the basics right
 
-Striking the right balance in research cadence is also essential. Stages like "research" and "measure" aren’t optional—though they can sometimes be treated as such. The key is adjusting their intensity to make them practical on a regular basis.  
+Getting the cadence of research right matters too. "Research" and "measure" aren't optional stages, though they're sometimes treated that way - the trick is adjusting their intensity so they stay practical on a regular basis.
 
-Now more than ever, it’s critical to get the basics right:  
+More than ever, it's worth getting the basics right:
 
-- Collecting the **right data**  
-- At the **right time**  
-- With the **right people** involved  
+- Collecting the **right data**
+- At the **right time**
+- With the **right people** involved
 
-The goal is to present a series of assumed facts that enable us to make better-educated decisions.
+The goal, ultimately, is a set of assumed facts solid enough to support genuinely educated decisions.
 
-## Final Thoughts
+## Final thoughts
 
-I have a feeling my notes will have assumed facts there at the top, acting as a reminder to base decisions on sound reasoning and reliable data.  
+I suspect my notes will always have "assumed facts" sitting at the top - a reminder to base decisions on sound reasoning and reliable data.
 
 *Have a great New Year!*

@@ -4,51 +4,35 @@ title: We Are Moving The Cheese Talk
 permalink: we-are-moving-the-cheese-talk/
 ---
 
-Our learnings so far building something from nothing through empowerment, agile and responsive methods
+*Our learnings so far building something from nothing, through empowerment, agile and responsive methods.*
 
-I was delighted to share our journey of building something from nothing using empowerment, agile practices, and responsive methods—toward creating better public services.
+I was delighted to share our journey of building something from nothing - using empowerment, agile practices, and responsive methods - towards better public services.
 
-With information scattered across 160+ organisations, 480+ websites, and over 6 million content items, the scale of the challenge is staggering.
+With information scattered across 160+ organisations and 480+ websites, and over 6 million content items in total, the scale of the challenge is genuinely staggering.
 
 > With over 6 million content items, we actually have more content items than people.
 
-Now, imagine putting yourself in the shoes of a user. What does this landscape look like to navigate? For many, it begins at Google and quickly becomes a murky, overwhelming experience.
+Now put yourself in a user's shoes. What does that landscape look like to navigate? For many, it starts at Google and quickly turns into a murky, overwhelming experience.
 
-Our mission to create a central point of access is deeply rooted in user research and performance analysis. However, the journey hasn’t been without its challenges.
+Our push to create a single point of access is grounded in user research and performance analysis. It hasn't been without its challenges.
 
-## Key Learnings So Far
+## Key learnings so far
 
-- **Embrace Multigenerational Organisations**  
-  Understand their benefits, explore tensions, and focus on building bridges. Diverse teams bring valuable perspectives.
+- **Embrace multigenerational organisations.** Understand the benefits, explore the tensions, and focus on building bridges. Diverse teams bring perspectives you'd otherwise miss.
+- **Tailor principles to fit your team.** Agile practices aren't one-size-fits-all - adapt them to your team and environment rather than following them by the book.
+- **Meet regularly, in person.** Face-to-face collaboration improves visibility, reduces tension, builds connection, and produces better solutions.
+- **Empowerment isn't the absence of direction.** Empower teams to make decisions, but still remove blockers and give clear guidance on the direction of travel.
+- **Beware the HiPPO** (Highest Paid Person's Opinion). It can unintentionally sway decisions - and it might even be your own opinion doing the swaying.
+- **Leverage online feedback.** Transparent processes attract free, valuable feedback from smart people. Embrace the criticism and learn from it.
 
-- **Tailor Principles to Fit Your Team**  
-  Agile practices and principles aren’t one-size-fits-all. Adapt them to suit your team’s needs and environment.
+## A unique opportunity in public services
 
-- **Meet Regularly—in Person**  
-  Regular face-to-face collaboration improves visibility, reduces tensions, fosters connections, and delivers better solutions.
+We're on the edge of something genuinely transformative in the public sector - a real chance to reshape how services get delivered.
 
-- **Empowerment Does Not Mean Lack of Direction**  
-  While empowering teams to make decisions, remove blockers and provide clear guidance on the direction of travel.
+## Books I mentioned
 
-- **Beware the HiPPO (Highest Paid Person's Opinion)**  
-  The HiPPO can unintentionally sway decisions. Be mindful—it might even be your own opinion.
+For anyone wanting to dig deeper, here are the books I referenced in the talk:
 
-- **Leverage Online Feedback**  
-  Transparent processes attract free, invaluable feedback from smart individuals online. Embrace criticism and learn from it.
-
-## A Unique Opportunity in Public Services
-
-We are on the brink of something truly transformative in the public sector. This is our chance to reshape our environments and revolutionise how we deliver services.
-
-## Books I Mentioned
-
-For those interested in diving deeper, here are the books I referenced during the talk:
-
-- [**Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead**](http://www.amazon.co.uk/gp/product/B00NLHJKBE/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B00NLHJKBE&linkCode=as2&tag=calsheblo-21&linkId=ORCY5AUYJUWFMELV)  
-  A fascinating look into Google's approach to leadership and innovation.
-
-- [**Innovation Games: Creating Breakthrough Products Through Collaborative Play**](http://www.amazon.co.uk/gp/product/0321437292/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0321437292&linkCode=as2&tag=calsheblo-21&linkId=GJHXHCKX6DGAV7KJ)  
-  A guide to using collaborative play to foster creativity and innovation.
-
-- [**Becoming the Boss: New Rules for the Next Generation of Leaders**](http://www.amazon.co.uk/gp/product/0062323318/ref=as_li_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=0062323318&linkCode=as2&tag=calsheblo-21&linkId=6JTHI3RYNS4ZVIZR)  
-  Insights on navigating leadership roles in today’s world.
+- **[Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead](http://www.amazon.co.uk/gp/product/B00NLHJKBE/)** - a fascinating look at Google's approach to leadership and innovation.
+- **[Innovation Games: Creating Breakthrough Products Through Collaborative Play](http://www.amazon.co.uk/gp/product/0321437292/)** - using collaborative play to foster creativity and innovation.
+- **[Becoming the Boss: New Rules for the Next Generation of Leaders](http://www.amazon.co.uk/gp/product/0062323318/)** - practical insight on navigating leadership roles.

@@ -4,22 +4,22 @@ title: Reading Suggestions for 2021
 permalink: reading-suggestions-2021
 ---
 
-I tend to write notes from books or simply highlight passages as I go. While I read whenever I can, I don’t make a conscious effort to read regularly. This approach has worked for me in the past, but when life gets busy, my learning takes a back seat.
+I tend to take notes from books, or simply highlight passages as I go. I read whenever I can, but I've never made a conscious effort to read *regularly* - which works fine until life gets busy, at which point learning is usually the first thing to slip.
 
-This year, I’m committing to reading one book every month. It doesn’t seem like much, but it should help me build a steady habit, think differently, and continue expanding my knowledge.
+This year I'm committing to reading one book a month. It's not a huge target, but it should be enough to build a steady habit, think differently, and keep expanding my knowledge.
 
-## What’s on the list?
+## What's on the list?
 
-- **[Michael J. Fox - *No Time Like the Future*](https://www.waterstones.com/book/no-time-like-the-future/michael-j-fox/9781472278463)**  
-I’ve read Michael J. Fox’s other books, and his optimism always shines through. However, after a couple of setbacks, I’m curious to see how his perspective has evolved. This promises to be an emotive and insightful read.
+- **[Michael J. Fox – *No Time Like the Future*](https://www.waterstones.com/book/no-time-like-the-future/michael-j-fox/9781472278463)**
+I've read Fox's other books and his optimism always shines through. After a couple of setbacks, I'm curious to see how his perspective has evolved. Expecting an emotive, insightful read.
 
-- **[Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams](https://www.amazon.co.uk/Mapping-Experiences-Complete-Creating-Blueprints-ebook/dp/B01F9Y6B9K)**  
-Miscommunication about mapping techniques is all too common in teams. For instance, an experience map that outlines how customers interact with your business differs from a story map. I’m hoping this book will sharpen my skills and help me choose the right tools at the right time.
+- **[Mapping Experiences: A Complete Guide to Creating Value through Journeys, Blueprints, and Diagrams](https://www.amazon.co.uk/Mapping-Experiences-Complete-Creating-Blueprints-ebook/dp/B01F9Y6B9K)**
+Miscommunication about mapping techniques is common in teams - an experience map showing how customers interact with your business is a different thing from a story map, and the distinction gets lost. Hoping this sharpens my skills and helps me pick the right tool at the right time.
 
-- **[Agile Product Management with Scrum](https://www.amazon.co.uk/Agile-Product-Management-Scrum-Addison-Wesley-ebook/dp/B003BW0C9I/ref=sr_1_1?dchild=1&keywords=Agile+Product+Management+with+Scrum&qid=1610391190&s=digital-text&sr=1-1)**  
-Roman Pichler’s previous book, *Strategize*, was a fantastic introduction to core product management concepts for alignment and direction. This book focuses on the practical application of those concepts in a Scrum environment. I’m looking forward to a valuable knowledge refresh.
+- **[Agile Product Management with Scrum](https://www.amazon.co.uk/Agile-Product-Management-Scrum-Addison-Wesley-ebook/dp/B003BW0C9I/ref=sr_1_1?dchild=1&keywords=Agile+Product+Management+with+Scrum&qid=1610391190&s=digital-text&sr=1-1)**
+Roman Pichler's earlier book, *Strategize*, was a great introduction to core product concepts for alignment and direction. This one focuses on applying those concepts practically within Scrum - looking forward to the refresh.
 
-- **[User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS/ref=sr_1_1?dchild=1&keywords=User+Story+Mapping_+Discover+the+Whole+Story%2C+Build+the+Right+Product&qid=1610391398&s=digital-text&sr=1-1)**  
-Jeff Patton is a well-known figure in the Agile community, and I’m embarrassed to admit I haven’t read this yet. After going remote, I stopped using story maps, which is a shame. It’s time to revisit this tool, and this book will help me do just that.
+- **[User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.co.uk/User-Story-Mapping-Discover-Product-ebook/dp/B00NF07FHS/ref=sr_1_1?dchild=1&keywords=User+Story+Mapping_+Discover+the+Whole+Story%2C+Build+the+Right+Product&qid=1610391398&s=digital-text&sr=1-1)**
+Jeff Patton is a well-known figure in the Agile community, and I'm slightly embarrassed to admit I haven't read this yet. I stopped using story maps after going remote, which is a shame - time to revisit the tool properly.
 
-- **[Forever Employable: How to Stop Looking for Work and Let Your Next Job Find You](https://www.amazon.co.uk/Forever-Employable-Stop-Looking-Work/dp/B087D22VV3/ref=sr_1_1?crid=N9PI3LI57I4W&dib=eyJ2IjoiMSJ9.AnBJvEg6zdQ75TE8kkHwHq0xRWQka94DT43usIwt81Y.fdKRwbEYJ-1aLcGExY4pWw0iqoeYnDRyMP9YbZHViOM&dib_tag=se&keywords=forever+employable+stop+looking&nsdOptOutParam=true&qid=1734305445&sprefix=forever+employable+stop+looking%2Caps%2C100&sr=8-1)**
+- **[Forever Employable: How to Stop Looking for Work and Let Your Next Job Find You](https://www.amazon.co.uk/Forever-Employable-Stop-Looking-Work/dp/B087D22VV3/)**

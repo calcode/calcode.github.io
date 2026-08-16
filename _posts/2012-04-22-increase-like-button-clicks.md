@@ -3,32 +3,35 @@ layout: post
 title: Increase Like Button Clicks
 permalink: increase-like-button-clicks/
 ---
-A colleague of mine [Ross](http://rosstavendale.com/) suggested an interesting idea for increasing social sharing on informational websites. By placing social sharing buttons alongside key content, rather than at the top or bottom of a page, it highlights specific sections of a page that are likely to be shared. This approach could potentially boost the rate at which users interact with social sharing buttons, especially the Facebook Like button, ultimately expanding visibility and followers on Facebook.
 
-> I wanted to explore how this could work and understand its potential benefits—this took a bit more digging
+A colleague, [Ross](http://rosstavendale.com/), suggested an interesting idea for boosting social sharing on informational websites: place social sharing buttons alongside key content rather than at the top or bottom of the page, drawing attention to the specific sections most likely to be shared. Done well, this could meaningfully increase engagement with sharing buttons - especially the Facebook Like button - and expand visibility and followers on Facebook.
 
-While it’s common for e-commerce websites to boost Like button clicks using Facebook Open Graph mark-up (e.g., declaring products as objects and placing share buttons alongside), this method is tailored to single-product pages. A great example of this is [ASOS](http://www.asos.com) where products are shared easily through social media.
+> I wanted to explore how this could work and understand its potential benefits - this took a bit more digging than expected.
 
-However, the question arose: How does this work on informational sites, where you're not sharing a product but rather specific sections of a page without compromising the message of the page as a whole? This was the aspect that intrigued me, and I wanted to understand how sites were pulling this off—and if there were any potential SEO implications.
+E-commerce sites commonly boost Like clicks using Facebook Open Graph markup - declaring products as objects and placing share buttons next to them. That approach is tailored to single-product pages; [ASOS](http://www.asos.com) is a good example of it working well.
 
-Let’s explore an example Ross shared with me: [Britain Magazine](http://www.britain-magazine.com/).
+The harder question: how does this translate to informational sites, where you're not sharing a single product but specific sections of a page - without undermining the page's overall message? That's what pulled me in, along with the potential SEO implications.
 
-Britain Magazine boosts Facebook Like button clicks by adding the ability to share individual quotes on a page. The challenge, however, is that only one set of Open Graph mark-up can be applied to a page. This means that the entire page would need to be focused on a single quote, despite containing other valuable content.
+Take an example Ross shared with me: [Britain Magazine](http://www.britain-magazine.com/).
 
+Britain Magazine boosts Like clicks by letting visitors share individual quotes from a page. The catch: only one set of Open Graph markup can apply per page, meaning the whole page would normally need to focus on a single quote - awkward when the page holds plenty of other valuable content.
 
-## How do they achieve this?
-It’s quite simple! They use one Like button for the homepage and then link to unique URLs for each quote. These URLs feature their own relevant Open Graph mark-up.
+## How do they pull it off?
 
-This method ensures that every quote has its own unique URL. The visitor is not technically sharing the quote itself, but the unique URL for that quote—something the typical user won't notice. The actual URL being shared can be seen within the iFrame.
+Simply enough: one Like button lives on the homepage, and each quote links out to its own unique URL, carrying its own Open Graph markup.
+
+Every quote effectively gets its own page. The visitor isn't technically sharing the quote itself but the unique URL for it - invisible to the average user, though you can see it if you inspect the iFrame.
 
 ## The user journey
-- A visitor lands on [http://www.britain-magazine.com](http://www.britain-magazine.com/)
-- The visitor clicks the like button next to a quote
-- The visitor shares a unique URL [http://www.britain-magazine.com/special-post/quotes/alfred-tennyson/](http://www.britain-magazine.com/special-post/quotes/alfred-tennyson/), which only provides a single quote and no other content
 
-## A great idea with wider implications*
-- SEO Benefits: Google will crawl these unique URLs, meaning each quote could be indexed as a separate page.
-- Improved User Experience: When shared, users land on a page with just the quote and navigation, rather than the original section of the homepage.
-- Increased Engagement: This method likely increases Like button clicks across the site, helping boost overall engagement with your content.
+- A visitor lands on [britain-magazine.com](http://www.britain-magazine.com/)
+- They click the Like button next to a quote
+- They end up sharing a unique URL - e.g. `britain-magazine.com/special-post/quotes/alfred-tennyson/` - showing just that quote and navigation, nothing else
 
-Essentially, this strategy provides an effective way to increase Like button clicks, improve visibility, and enhance brand interaction. While it may offer minimal SEO value and potential indexing issues (unless spider controls like noindex are used), it’s still a clever and creative way to encourage social sharing and engagement.
+## A clever idea with wider implications
+
+- **SEO benefit:** Google crawls these unique URLs, so each quote can potentially be indexed as its own page.
+- **Better user experience:** Visitors arriving via a shared link land on a clean page with just the quote and navigation, rather than a fragment of the homepage.
+- **Higher engagement:** The approach likely increases Like clicks site-wide, boosting overall engagement.
+
+Overall, a clever, low-effort way to encourage social sharing and engagement - though it's worth using spider controls like `noindex` where appropriate, since duplicate-content and indexing issues are the main trade-off.

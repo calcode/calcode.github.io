@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Posts
+description: Writing from Calum Shepherd on product management, product strategy, and building with data and AI.
 ---
 
 {% for post in site.posts %}
